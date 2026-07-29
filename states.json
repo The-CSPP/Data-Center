@@ -1,0 +1,182 @@
+[
+  {
+    "state_code": 12,
+    "state_name": "Arunachal Pradesh",
+    "cspp_code": "CSPP-STATE-00012"
+  },
+  {
+    "state_code": 2,
+    "state_name": "Himachal Pradesh",
+    "cspp_code": "CSPP-STATE-00002"
+  },
+  {
+    "state_code": 23,
+    "state_name": "Madhya Pradesh",
+    "cspp_code": "CSPP-STATE-00023"
+  },
+  {
+    "state_code": 27,
+    "state_name": "Maharashtra",
+    "cspp_code": "CSPP-STATE-00027"
+  },
+  {
+    "state_code": 34,
+    "state_name": "Puducherry",
+    "cspp_code": "CSPP-STATE-00034"
+  },
+  {
+    "state_code": 9,
+    "state_name": "Uttar Pradesh",
+    "cspp_code": "CSPP-STATE-00009"
+  },
+  {
+    "state_code": 22,
+    "state_name": "Chhattisgarh",
+    "cspp_code": "CSPP-STATE-00022"
+  },
+  {
+    "state_code": 20,
+    "state_name": "Jharkhand",
+    "cspp_code": "CSPP-STATE-00020"
+  },
+  {
+    "state_code": 17,
+    "state_name": "Meghalaya",
+    "cspp_code": "CSPP-STATE-00017"
+  },
+  {
+    "state_code": 3,
+    "state_name": "Punjab",
+    "cspp_code": "CSPP-STATE-00003"
+  },
+  {
+    "state_code": 16,
+    "state_name": "Tripura",
+    "cspp_code": "CSPP-STATE-00016"
+  },
+  {
+    "state_code": 10,
+    "state_name": "Bihar",
+    "cspp_code": "CSPP-STATE-00010"
+  },
+  {
+    "state_code": 7,
+    "state_name": "Delhi",
+    "cspp_code": "CSPP-STATE-00007"
+  },
+  {
+    "state_code": 32,
+    "state_name": "Kerala",
+    "cspp_code": "CSPP-STATE-00032"
+  },
+  {
+    "state_code": 11,
+    "state_name": "Sikkim",
+    "cspp_code": "CSPP-STATE-00011"
+  },
+  {
+    "state_code": 38,
+    "state_name": "The Dadra And Nagar Haveli And Daman And Diu",
+    "cspp_code": "CSPP-STATE-00038"
+  },
+  {
+    "state_code": 5,
+    "state_name": "Uttarakhand",
+    "cspp_code": "CSPP-STATE-00005"
+  },
+  {
+    "state_code": 35,
+    "state_name": "Andaman And Nicobar Islands",
+    "cspp_code": "CSPP-STATE-00035"
+  },
+  {
+    "state_code": 28,
+    "state_name": "Andhra Pradesh",
+    "cspp_code": "CSPP-STATE-00028"
+  },
+  {
+    "state_code": 18,
+    "state_name": "Assam",
+    "cspp_code": "CSPP-STATE-00018"
+  },
+  {
+    "state_code": 4,
+    "state_name": "Chandigarh",
+    "cspp_code": "CSPP-STATE-00004"
+  },
+  {
+    "state_code": 6,
+    "state_name": "Haryana",
+    "cspp_code": "CSPP-STATE-00006"
+  },
+  {
+    "state_code": 1,
+    "state_name": "Jammu And Kashmir",
+    "cspp_code": "CSPP-STATE-00001"
+  },
+  {
+    "state_code": 37,
+    "state_name": "Ladakh",
+    "cspp_code": "CSPP-STATE-00037"
+  },
+  {
+    "state_code": 15,
+    "state_name": "Mizoram",
+    "cspp_code": "CSPP-STATE-00015"
+  },
+  {
+    "state_code": 21,
+    "state_name": "Odisha",
+    "cspp_code": "CSPP-STATE-00021"
+  },
+  {
+    "state_code": 36,
+    "state_name": "Telangana",
+    "cspp_code": "CSPP-STATE-00036"
+  },
+  {
+    "state_code": 30,
+    "state_name": "Goa",
+    "cspp_code": "CSPP-STATE-00030"
+  },
+  {
+    "state_code": 24,
+    "state_name": "Gujarat",
+    "cspp_code": "CSPP-STATE-00024"
+  },
+  {
+    "state_code": 29,
+    "state_name": "Karnataka",
+    "cspp_code": "CSPP-STATE-00029"
+  },
+  {
+    "state_code": 31,
+    "state_name": "Lakshadweep",
+    "cspp_code": "CSPP-STATE-00031"
+  },
+  {
+    "state_code": 14,
+    "state_name": "Manipur",
+    "cspp_code": "CSPP-STATE-00014"
+  },
+  {
+    "state_code": 13,
+    "state_name": "Nagaland",
+    "cspp_code": "CSPP-STATE-00013"
+  },
+  {
+    "state_code": 8,
+    "state_name": "Rajasthan",
+    "cspp_code": "CSPP-STATE-00008"
+  },
+  {
+    "state_code": 33,
+    "state_name": "Tamil Nadu",
+    "cspp_code": "CSPP-STATE-00033"
+  },
+  {
+    "state_code": 19,
+    "state_name": "West Bengal",
+    "cspp_code": "CSPP-STATE-00019"
+  }
+]

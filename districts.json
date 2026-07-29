@@ -1,0 +1,4712 @@
+[
+  {
+    "state_code": 32,
+    "district_code": 554,
+    "district_name": "Alappuzha",
+    "cspp_code": "CSPP-DISTRICT-00554"
+  },
+  {
+    "state_code": 9,
+    "district_code": 121,
+    "district_name": "Ambedkar Nagar",
+    "cspp_code": "CSPP-DISTRICT-00121"
+  },
+  {
+    "state_code": 3,
+    "district_code": 27,
+    "district_name": "Amritsar",
+    "cspp_code": "CSPP-DISTRICT-00027"
+  },
+  {
+    "state_code": 24,
+    "district_code": 672,
+    "district_name": "Arvalli",
+    "cspp_code": "CSPP-DISTRICT-00672"
+  },
+  {
+    "state_code": 10,
+    "district_code": 611,
+    "district_name": "Arwal",
+    "cspp_code": "CSPP-DISTRICT-00611"
+  },
+  {
+    "state_code": 10,
+    "district_code": 189,
+    "district_name": "Aurangabad",
+    "cspp_code": "CSPP-DISTRICT-00189"
+  },
+  {
+    "state_code": 9,
+    "district_code": 125,
+    "district_name": "Bahraich",
+    "cspp_code": "CSPP-DISTRICT-00125"
+  },
+  {
+    "state_code": 22,
+    "district_code": 646,
+    "district_name": "Balod",
+    "cspp_code": "CSPP-DISTRICT-00646"
+  },
+  {
+    "state_code": 9,
+    "district_code": 127,
+    "district_name": "Balrampur",
+    "cspp_code": "CSPP-DISTRICT-00127"
+  },
+  {
+    "state_code": 22,
+    "district_code": 649,
+    "district_name": "Balrampur-Ramanujganj",
+    "cspp_code": "CSPP-DISTRICT-00649"
+  },
+  {
+    "state_code": 1,
+    "district_code": 623,
+    "district_name": "Bandipora",
+    "cspp_code": "CSPP-DISTRICT-00623"
+  },
+  {
+    "state_code": 27,
+    "district_code": 470,
+    "district_name": "Beed",
+    "cspp_code": "CSPP-DISTRICT-00470"
+  },
+  {
+    "state_code": 22,
+    "district_code": 650,
+    "district_name": "Bemetara",
+    "cspp_code": "CSPP-DISTRICT-00650"
+  },
+  {
+    "state_code": 29,
+    "district_code": 525,
+    "district_name": "Bengaluru Urban",
+    "cspp_code": "CSPP-DISTRICT-00525"
+  },
+  {
+    "state_code": 9,
+    "district_code": 179,
+    "district_name": "Bhadohi",
+    "cspp_code": "CSPP-DISTRICT-00179"
+  },
+  {
+    "state_code": 27,
+    "district_code": 471,
+    "district_name": "Bhandara",
+    "cspp_code": "CSPP-DISTRICT-00471"
+  },
+  {
+    "state_code": 23,
+    "district_code": 395,
+    "district_name": "Bhind",
+    "cspp_code": "CSPP-DISTRICT-00395"
+  },
+  {
+    "state_code": 22,
+    "district_code": 636,
+    "district_name": "Bijapur",
+    "cspp_code": "CSPP-DISTRICT-00636"
+  },
+  {
+    "state_code": 24,
+    "district_code": 676,
+    "district_name": "Botad",
+    "cspp_code": "CSPP-DISTRICT-00676"
+  },
+  {
+    "state_code": 5,
+    "district_code": 47,
+    "district_name": "Chamoli",
+    "cspp_code": "CSPP-DISTRICT-00047"
+  },
+  {
+    "state_code": 9,
+    "district_code": 135,
+    "district_name": "Chandauli",
+    "cspp_code": "CSPP-DISTRICT-00135"
+  },
+  {
+    "state_code": 14,
+    "district_code": 253,
+    "district_name": "Chandel",
+    "cspp_code": "CSPP-DISTRICT-00253"
+  },
+  {
+    "state_code": 27,
+    "district_code": 473,
+    "district_name": "Chandrapur",
+    "cspp_code": "CSPP-DISTRICT-00473"
+  },
+  {
+    "state_code": 23,
+    "district_code": 398,
+    "district_name": "Chhatarpur",
+    "cspp_code": "CSPP-DISTRICT-00398"
+  },
+  {
+    "state_code": 24,
+    "district_code": 668,
+    "district_name": "Chhotaudepur",
+    "cspp_code": "CSPP-DISTRICT-00668"
+  },
+  {
+    "state_code": 24,
+    "district_code": 445,
+    "district_name": "Dahod",
+    "cspp_code": "CSPP-DISTRICT-00445"
+  },
+  {
+    "state_code": 19,
+    "district_code": 310,
+    "district_name": "Dakshin Dinajpur",
+    "cspp_code": "CSPP-DISTRICT-00310"
+  },
+  {
+    "state_code": 23,
+    "district_code": 400,
+    "district_name": "Damoh",
+    "cspp_code": "CSPP-DISTRICT-00400"
+  },
+  {
+    "state_code": 24,
+    "district_code": 444,
+    "district_name": "Dangs",
+    "cspp_code": "CSPP-DISTRICT-00444"
+  },
+  {
+    "state_code": 19,
+    "district_code": 309,
+    "district_name": "Darjeeling",
+    "cspp_code": "CSPP-DISTRICT-00309"
+  },
+  {
+    "state_code": 29,
+    "district_code": 535,
+    "district_name": "Davangere",
+    "cspp_code": "CSPP-DISTRICT-00535"
+  },
+  {
+    "state_code": 16,
+    "district_code": 269,
+    "district_name": "Dhalai",
+    "cspp_code": "CSPP-DISTRICT-00269"
+  },
+  {
+    "state_code": 21,
+    "district_code": 352,
+    "district_name": "Dhenkanal",
+    "cspp_code": "CSPP-DISTRICT-00352"
+  },
+  {
+    "state_code": 23,
+    "district_code": 404,
+    "district_name": "Dindori",
+    "cspp_code": "CSPP-DISTRICT-00404"
+  },
+  {
+    "state_code": 8,
+    "district_code": 769,
+    "district_name": "Dudu",
+    "cspp_code": "CSPP-DISTRICT-00769"
+  },
+  {
+    "state_code": 17,
+    "district_code": 657,
+    "district_name": "East Jaintia Hills",
+    "cspp_code": "CSPP-DISTRICT-00657"
+  },
+  {
+    "state_code": 28,
+    "district_code": 748,
+    "district_name": "Eluru",
+    "cspp_code": "CSPP-DISTRICT-00748"
+  },
+  {
+    "state_code": 33,
+    "district_code": 573,
+    "district_name": "Erode",
+    "cspp_code": "CSPP-DISTRICT-00573"
+  },
+  {
+    "state_code": 3,
+    "district_code": 651,
+    "district_name": "Fazilka",
+    "cspp_code": "CSPP-DISTRICT-00651"
+  },
+  {
+    "state_code": 3,
+    "district_code": 31,
+    "district_name": "Ferozepur",
+    "cspp_code": "CSPP-DISTRICT-00031"
+  },
+  {
+    "state_code": 24,
+    "district_code": 446,
+    "district_name": "Gandhinagar",
+    "cspp_code": "CSPP-DISTRICT-00446"
+  },
+  {
+    "state_code": 20,
+    "district_code": 328,
+    "district_name": "Garhwa",
+    "cspp_code": "CSPP-DISTRICT-00328"
+  },
+  {
+    "state_code": 22,
+    "district_code": 645,
+    "district_name": "Gariyaband",
+    "cspp_code": "CSPP-DISTRICT-00645"
+  },
+  {
+    "state_code": 10,
+    "district_code": 196,
+    "district_name": "Gaya",
+    "cspp_code": "CSPP-DISTRICT-00196"
+  },
+  {
+    "state_code": 16,
+    "district_code": 654,
+    "district_name": "Gomati",
+    "cspp_code": "CSPP-DISTRICT-00654"
+  },
+  {
+    "state_code": 20,
+    "district_code": 331,
+    "district_name": "Gumla",
+    "cspp_code": "CSPP-DISTRICT-00331"
+  },
+  {
+    "state_code": 2,
+    "district_code": 17,
+    "district_name": "Hamirpur",
+    "cspp_code": "CSPP-DISTRICT-00017"
+  },
+  {
+    "state_code": 36,
+    "district_code": 686,
+    "district_name": "Hanumakonda",
+    "cspp_code": "CSPP-DISTRICT-00686"
+  },
+  {
+    "state_code": 23,
+    "district_code": 408,
+    "district_name": "Harda",
+    "cspp_code": "CSPP-DISTRICT-00408"
+  },
+  {
+    "state_code": 5,
+    "district_code": 50,
+    "district_name": "Haridwar",
+    "cspp_code": "CSPP-DISTRICT-00050"
+  },
+  {
+    "state_code": 29,
+    "district_code": 539,
+    "district_name": "Hassan",
+    "cspp_code": "CSPP-DISTRICT-00539"
+  },
+  {
+    "state_code": 21,
+    "district_code": 355,
+    "district_name": "Jagatsinghapur",
+    "cspp_code": "CSPP-DISTRICT-00355"
+  },
+  {
+    "state_code": 8,
+    "district_code": 102,
+    "district_name": "Jaipur",
+    "cspp_code": "CSPP-DISTRICT-00102"
+  },
+  {
+    "state_code": 8,
+    "district_code": 104,
+    "district_name": "Jalore",
+    "cspp_code": "CSPP-DISTRICT-00104"
+  },
+  {
+    "state_code": 19,
+    "district_code": 314,
+    "district_name": "Jalpaiguri",
+    "cspp_code": "CSPP-DISTRICT-00314"
+  },
+  {
+    "state_code": 36,
+    "district_code": 687,
+    "district_name": "Jayashankar Bhupalapally",
+    "cspp_code": "CSPP-DISTRICT-00687"
+  },
+  {
+    "state_code": 8,
+    "district_code": 105,
+    "district_name": "Jhalawar",
+    "cspp_code": "CSPP-DISTRICT-00105"
+  },
+  {
+    "state_code": 9,
+    "district_code": 153,
+    "district_name": "Jhansi",
+    "cspp_code": "CSPP-DISTRICT-00153"
+  },
+  {
+    "state_code": 21,
+    "district_code": 357,
+    "district_name": "Jharsuguda",
+    "cspp_code": "CSPP-DISTRICT-00357"
+  },
+  {
+    "state_code": 22,
+    "district_code": 382,
+    "district_name": "Kabeerdham",
+    "cspp_code": "CSPP-DISTRICT-00382"
+  },
+  {
+    "state_code": 19,
+    "district_code": 702,
+    "district_name": "Kalimpong",
+    "cspp_code": "CSPP-DISTRICT-00702"
+  },
+  {
+    "state_code": 9,
+    "district_code": 156,
+    "district_name": "Kanpur Dehat",
+    "cspp_code": "CSPP-DISTRICT-00156"
+  },
+  {
+    "state_code": 8,
+    "district_code": 108,
+    "district_name": "Karauli",
+    "cspp_code": "CSPP-DISTRICT-00108"
+  },
+  {
+    "state_code": 36,
+    "district_code": 508,
+    "district_name": "Karimnagar",
+    "cspp_code": "CSPP-DISTRICT-00508"
+  },
+  {
+    "state_code": 10,
+    "district_code": 201,
+    "district_name": "Katihar",
+    "cspp_code": "CSPP-DISTRICT-00201"
+  },
+  {
+    "state_code": 21,
+    "district_code": 360,
+    "district_name": "Kendrapara",
+    "cspp_code": "CSPP-DISTRICT-00360"
+  },
+  {
+    "state_code": 23,
+    "district_code": 414,
+    "district_name": "Khargone (West Nimar)",
+    "cspp_code": "CSPP-DISTRICT-00414"
+  },
+  {
+    "state_code": 24,
+    "district_code": 450,
+    "district_name": "Kheda",
+    "cspp_code": "CSPP-DISTRICT-00450"
+  },
+  {
+    "state_code": 9,
+    "district_code": 159,
+    "district_name": "Kheri",
+    "cspp_code": "CSPP-DISTRICT-00159"
+  },
+  {
+    "state_code": 16,
+    "district_code": 652,
+    "district_name": "Khowai",
+    "cspp_code": "CSPP-DISTRICT-00652"
+  },
+  {
+    "state_code": 20,
+    "district_code": 606,
+    "district_name": "Khunti",
+    "cspp_code": "CSPP-DISTRICT-00606"
+  },
+  {
+    "state_code": 1,
+    "district_code": 620,
+    "district_name": "Kishtwar",
+    "cspp_code": "CSPP-DISTRICT-00620"
+  },
+  {
+    "state_code": 15,
+    "district_code": 263,
+    "district_name": "Kolasib",
+    "cspp_code": "CSPP-DISTRICT-00263"
+  },
+  {
+    "state_code": 19,
+    "district_code": 315,
+    "district_name": "Kolkata",
+    "cspp_code": "CSPP-DISTRICT-00315"
+  },
+  {
+    "state_code": 32,
+    "district_code": 559,
+    "district_name": "Kollam",
+    "cspp_code": "CSPP-DISTRICT-00559"
+  },
+  {
+    "state_code": 8,
+    "district_code": 109,
+    "district_name": "Kota",
+    "cspp_code": "CSPP-DISTRICT-00109"
+  },
+  {
+    "state_code": 9,
+    "district_code": 160,
+    "district_name": "Kushinagar",
+    "cspp_code": "CSPP-DISTRICT-00160"
+  },
+  {
+    "state_code": 31,
+    "district_code": 553,
+    "district_name": "Lakshadweep District",
+    "cspp_code": "CSPP-DISTRICT-00553"
+  },
+  {
+    "state_code": 9,
+    "district_code": 161,
+    "district_name": "Lalitpur",
+    "cspp_code": "CSPP-DISTRICT-00161"
+  },
+  {
+    "state_code": 20,
+    "district_code": 335,
+    "district_name": "Latehar",
+    "cspp_code": "CSPP-DISTRICT-00335"
+  },
+  {
+    "state_code": 12,
+    "district_code": 234,
+    "district_name": "Lohit",
+    "cspp_code": "CSPP-DISTRICT-00234"
+  },
+  {
+    "state_code": 13,
+    "district_code": 615,
+    "district_name": "Longleng",
+    "cspp_code": "CSPP-DISTRICT-00615"
+  },
+  {
+    "state_code": 10,
+    "district_code": 206,
+    "district_name": "Madhubani",
+    "cspp_code": "CSPP-DISTRICT-00206"
+  },
+  {
+    "state_code": 33,
+    "district_code": 578,
+    "district_name": "Madurai",
+    "cspp_code": "CSPP-DISTRICT-00578"
+  },
+  {
+    "state_code": 6,
+    "district_code": 69,
+    "district_name": "Mahendragarh",
+    "cspp_code": "CSPP-DISTRICT-00069"
+  },
+  {
+    "state_code": 24,
+    "district_code": 669,
+    "district_name": "Mahisagar",
+    "cspp_code": "CSPP-DISTRICT-00669"
+  },
+  {
+    "state_code": 23,
+    "district_code": 784,
+    "district_name": "Maihar",
+    "cspp_code": "CSPP-DISTRICT-00784"
+  },
+  {
+    "state_code": 9,
+    "district_code": 166,
+    "district_name": "Mainpuri",
+    "cspp_code": "CSPP-DISTRICT-00166"
+  },
+  {
+    "state_code": 18,
+    "district_code": 706,
+    "district_name": "Majuli",
+    "cspp_code": "CSPP-DISTRICT-00706"
+  },
+  {
+    "state_code": 32,
+    "district_code": 562,
+    "district_name": "Malappuram",
+    "cspp_code": "CSPP-DISTRICT-00562"
+  },
+  {
+    "state_code": 19,
+    "district_code": 316,
+    "district_name": "Malda",
+    "cspp_code": "CSPP-DISTRICT-00316"
+  },
+  {
+    "state_code": 21,
+    "district_code": 364,
+    "district_name": "Malkangiri",
+    "cspp_code": "CSPP-DISTRICT-00364"
+  },
+  {
+    "state_code": 36,
+    "district_code": 684,
+    "district_name": "Mancherial",
+    "cspp_code": "CSPP-DISTRICT-00684"
+  },
+  {
+    "state_code": 9,
+    "district_code": 168,
+    "district_name": "Mau",
+    "cspp_code": "CSPP-DISTRICT-00168"
+  },
+  {
+    "state_code": 13,
+    "district_code": 247,
+    "district_name": "Mon",
+    "cspp_code": "CSPP-DISTRICT-00247"
+  },
+  {
+    "state_code": 36,
+    "district_code": 720,
+    "district_name": "Mulugu",
+    "cspp_code": "CSPP-DISTRICT-00720"
+  },
+  {
+    "state_code": 10,
+    "district_code": 207,
+    "district_name": "Munger",
+    "cspp_code": "CSPP-DISTRICT-00207"
+  },
+  {
+    "state_code": 29,
+    "district_code": 545,
+    "district_name": "Mysuru",
+    "cspp_code": "CSPP-DISTRICT-00545"
+  },
+  {
+    "state_code": 33,
+    "district_code": 579,
+    "district_name": "Nagapattinam",
+    "cspp_code": "CSPP-DISTRICT-00579"
+  },
+  {
+    "state_code": 27,
+    "district_code": 484,
+    "district_name": "Nagpur",
+    "cspp_code": "CSPP-DISTRICT-00484"
+  },
+  {
+    "state_code": 5,
+    "district_code": 51,
+    "district_name": "Nainital",
+    "cspp_code": "CSPP-DISTRICT-00051"
+  },
+  {
+    "state_code": 23,
+    "district_code": 409,
+    "district_name": "Narmadapuram",
+    "cspp_code": "CSPP-DISTRICT-00409"
+  },
+  {
+    "state_code": 27,
+    "district_code": 487,
+    "district_name": "Nashik",
+    "cspp_code": "CSPP-DISTRICT-00487"
+  },
+  {
+    "state_code": 24,
+    "district_code": 453,
+    "district_name": "Navsari",
+    "cspp_code": "CSPP-DISTRICT-00453"
+  },
+  {
+    "state_code": 14,
+    "district_code": 714,
+    "district_name": "Noney",
+    "cspp_code": "CSPP-DISTRICT-00714"
+  },
+  {
+    "state_code": 7,
+    "district_code": 81,
+    "district_name": "North East",
+    "cspp_code": "CSPP-DISTRICT-00081"
+  },
+  {
+    "state_code": 16,
+    "district_code": 270,
+    "district_name": "North Tripura",
+    "cspp_code": "CSPP-DISTRICT-00270"
+  },
+  {
+    "state_code": 28,
+    "district_code": 749,
+    "district_name": "Ntr",
+    "cspp_code": "CSPP-DISTRICT-00749"
+  },
+  {
+    "state_code": 32,
+    "district_code": 563,
+    "district_name": "Palakkad",
+    "cspp_code": "CSPP-DISTRICT-00563"
+  },
+  {
+    "state_code": 20,
+    "district_code": 338,
+    "district_name": "Palamu",
+    "cspp_code": "CSPP-DISTRICT-00338"
+  },
+  {
+    "state_code": 27,
+    "district_code": 665,
+    "district_name": "Palghar",
+    "cspp_code": "CSPP-DISTRICT-00665"
+  },
+  {
+    "state_code": 6,
+    "district_code": 70,
+    "district_name": "Panchkula",
+    "cspp_code": "CSPP-DISTRICT-00070"
+  },
+  {
+    "state_code": 6,
+    "district_code": 71,
+    "district_name": "Panipat",
+    "cspp_code": "CSPP-DISTRICT-00071"
+  },
+  {
+    "state_code": 28,
+    "district_code": 743,
+    "district_name": "Parvathipuram Manyam",
+    "cspp_code": "CSPP-DISTRICT-00743"
+  },
+  {
+    "state_code": 3,
+    "district_code": 662,
+    "district_name": "Pathankot",
+    "cspp_code": "CSPP-DISTRICT-00662"
+  },
+  {
+    "state_code": 5,
+    "district_code": 53,
+    "district_name": "Pithoragarh",
+    "cspp_code": "CSPP-DISTRICT-00053"
+  },
+  {
+    "state_code": 10,
+    "district_code": 213,
+    "district_name": "Purbi Champaran",
+    "cspp_code": "CSPP-DISTRICT-00213"
+  },
+  {
+    "state_code": 21,
+    "district_code": 369,
+    "district_name": "Puri",
+    "cspp_code": "CSPP-DISTRICT-00369"
+  },
+  {
+    "state_code": 23,
+    "district_code": 421,
+    "district_name": "Raisen",
+    "cspp_code": "CSPP-DISTRICT-00421"
+  },
+  {
+    "state_code": 36,
+    "district_code": 518,
+    "district_name": "Ranga Reddy",
+    "cspp_code": "CSPP-DISTRICT-00518"
+  },
+  {
+    "state_code": 1,
+    "district_code": 627,
+    "district_name": "Reasi",
+    "cspp_code": "CSPP-DISTRICT-00627"
+  },
+  {
+    "state_code": 23,
+    "district_code": 425,
+    "district_name": "Sagar",
+    "cspp_code": "CSPP-DISTRICT-00425"
+  },
+  {
+    "state_code": 10,
+    "district_code": 217,
+    "district_name": "Samastipur",
+    "cspp_code": "CSPP-DISTRICT-00217"
+  },
+  {
+    "state_code": 3,
+    "district_code": 43,
+    "district_name": "Sangrur",
+    "cspp_code": "CSPP-DISTRICT-00043"
+  },
+  {
+    "state_code": 3,
+    "district_code": 608,
+    "district_name": "S.A.S Nagar",
+    "cspp_code": "CSPP-DISTRICT-00608"
+  },
+  {
+    "state_code": 3,
+    "district_code": 40,
+    "district_name": "Shahid Bhagat Singh Nagar",
+    "cspp_code": "CSPP-DISTRICT-00040"
+  },
+  {
+    "state_code": 9,
+    "district_code": 182,
+    "district_name": "Siddharthnagar",
+    "cspp_code": "CSPP-DISTRICT-00182"
+  },
+  {
+    "state_code": 8,
+    "district_code": 114,
+    "district_name": "Sikar",
+    "cspp_code": "CSPP-DISTRICT-00114"
+  },
+  {
+    "state_code": 27,
+    "district_code": 495,
+    "district_name": "Sindhudurg",
+    "cspp_code": "CSPP-DISTRICT-00495"
+  },
+  {
+    "state_code": 8,
+    "district_code": 115,
+    "district_name": "Sirohi",
+    "cspp_code": "CSPP-DISTRICT-00115"
+  },
+  {
+    "state_code": 6,
+    "district_code": 74,
+    "district_name": "Sirsa",
+    "cspp_code": "CSPP-DISTRICT-00074"
+  },
+  {
+    "state_code": 33,
+    "district_code": 585,
+    "district_name": "Sivaganga",
+    "cspp_code": "CSPP-DISTRICT-00585"
+  },
+  {
+    "state_code": 9,
+    "district_code": 184,
+    "district_name": "Sonbhadra",
+    "cspp_code": "CSPP-DISTRICT-00184"
+  },
+  {
+    "state_code": 21,
+    "district_code": 372,
+    "district_name": "Sonepur",
+    "cspp_code": "CSPP-DISTRICT-00372"
+  },
+  {
+    "state_code": 19,
+    "district_code": 304,
+    "district_name": "South 24 Parganas",
+    "cspp_code": "CSPP-DISTRICT-00304"
+  },
+  {
+    "state_code": 30,
+    "district_code": 552,
+    "district_name": "South Goa",
+    "cspp_code": "CSPP-DISTRICT-00552"
+  },
+  {
+    "state_code": 36,
+    "district_code": 696,
+    "district_name": "Suryapet",
+    "cspp_code": "CSPP-DISTRICT-00696"
+  },
+  {
+    "state_code": 14,
+    "district_code": 716,
+    "district_name": "Tengnoupal",
+    "cspp_code": "CSPP-DISTRICT-00716"
+  },
+  {
+    "state_code": 33,
+    "district_code": 588,
+    "district_name": "Theni",
+    "cspp_code": "CSPP-DISTRICT-00588"
+  },
+  {
+    "state_code": 33,
+    "district_code": 590,
+    "district_name": "Thiruvarur",
+    "cspp_code": "CSPP-DISTRICT-00590"
+  },
+  {
+    "state_code": 23,
+    "district_code": 434,
+    "district_name": "Tikamgarh",
+    "cspp_code": "CSPP-DISTRICT-00434"
+  },
+  {
+    "state_code": 16,
+    "district_code": 655,
+    "district_name": "Unakoti",
+    "cspp_code": "CSPP-DISTRICT-00655"
+  },
+  {
+    "state_code": 12,
+    "district_code": 241,
+    "district_name": "Upper Subansiri",
+    "cspp_code": "CSPP-DISTRICT-00241"
+  },
+  {
+    "state_code": 9,
+    "district_code": 187,
+    "district_name": "Varanasi",
+    "cspp_code": "CSPP-DISTRICT-00187"
+  },
+  {
+    "state_code": 33,
+    "district_code": 597,
+    "district_name": "Virudhunagar",
+    "cspp_code": "CSPP-DISTRICT-00597"
+  },
+  {
+    "state_code": 27,
+    "district_code": 498,
+    "district_name": "Wardha",
+    "cspp_code": "CSPP-DISTRICT-00498"
+  },
+  {
+    "state_code": 17,
+    "district_code": 279,
+    "district_name": "West Khasi Hills",
+    "cspp_code": "CSPP-DISTRICT-00279"
+  },
+  {
+    "state_code": 16,
+    "district_code": 272,
+    "district_name": "West Tripura",
+    "cspp_code": "CSPP-DISTRICT-00272"
+  },
+  {
+    "state_code": 28,
+    "district_code": 504,
+    "district_name": "Y.S.R.",
+    "cspp_code": "CSPP-DISTRICT-00504"
+  },
+  {
+    "state_code": 23,
+    "district_code": 667,
+    "district_name": "Agar-Malwa",
+    "cspp_code": "CSPP-DISTRICT-00667"
+  },
+  {
+    "state_code": 9,
+    "district_code": 118,
+    "district_name": "Agra",
+    "cspp_code": "CSPP-DISTRICT-00118"
+  },
+  {
+    "state_code": 8,
+    "district_code": 86,
+    "district_name": "Ajmer",
+    "cspp_code": "CSPP-DISTRICT-00086"
+  },
+  {
+    "state_code": 19,
+    "district_code": 664,
+    "district_name": "Alipurduar",
+    "cspp_code": "CSPP-DISTRICT-00664"
+  },
+  {
+    "state_code": 5,
+    "district_code": 45,
+    "district_name": "Almora",
+    "cspp_code": "CSPP-DISTRICT-00045"
+  },
+  {
+    "state_code": 6,
+    "district_code": 58,
+    "district_name": "Ambala",
+    "cspp_code": "CSPP-DISTRICT-00058"
+  },
+  {
+    "state_code": 27,
+    "district_code": 468,
+    "district_name": "Amravati",
+    "cspp_code": "CSPP-DISTRICT-00468"
+  },
+  {
+    "state_code": 24,
+    "district_code": 439,
+    "district_name": "Amreli",
+    "cspp_code": "CSPP-DISTRICT-00439"
+  },
+  {
+    "state_code": 1,
+    "district_code": 1,
+    "district_name": "Anantnag",
+    "cspp_code": "CSPP-DISTRICT-00001"
+  },
+  {
+    "state_code": 28,
+    "district_code": 753,
+    "district_name": "Annamayya",
+    "cspp_code": "CSPP-DISTRICT-00753"
+  },
+  {
+    "state_code": 18,
+    "district_code": 616,
+    "district_name": "Baksa",
+    "cspp_code": "CSPP-DISTRICT-00616"
+  },
+  {
+    "state_code": 21,
+    "district_code": 346,
+    "district_name": "Baleshwar",
+    "cspp_code": "CSPP-DISTRICT-00346"
+  },
+  {
+    "state_code": 9,
+    "district_code": 126,
+    "district_name": "Ballia",
+    "cspp_code": "CSPP-DISTRICT-00126"
+  },
+  {
+    "state_code": 22,
+    "district_code": 644,
+    "district_name": "Balodabazar-Bhatapara",
+    "cspp_code": "CSPP-DISTRICT-00644"
+  },
+  {
+    "state_code": 9,
+    "district_code": 128,
+    "district_name": "Banda",
+    "cspp_code": "CSPP-DISTRICT-00128"
+  },
+  {
+    "state_code": 10,
+    "district_code": 190,
+    "district_name": "Banka",
+    "cspp_code": "CSPP-DISTRICT-00190"
+  },
+  {
+    "state_code": 19,
+    "district_code": 305,
+    "district_name": "Bankura",
+    "cspp_code": "CSPP-DISTRICT-00305"
+  },
+  {
+    "state_code": 1,
+    "district_code": 3,
+    "district_name": "Baramulla",
+    "cspp_code": "CSPP-DISTRICT-00003"
+  },
+  {
+    "state_code": 9,
+    "district_code": 130,
+    "district_name": "Bareilly",
+    "cspp_code": "CSPP-DISTRICT-00130"
+  },
+  {
+    "state_code": 23,
+    "district_code": 393,
+    "district_name": "Barwani",
+    "cspp_code": "CSPP-DISTRICT-00393"
+  },
+  {
+    "state_code": 3,
+    "district_code": 28,
+    "district_name": "Bathinda",
+    "cspp_code": "CSPP-DISTRICT-00028"
+  },
+  {
+    "state_code": 10,
+    "district_code": 191,
+    "district_name": "Begusarai",
+    "cspp_code": "CSPP-DISTRICT-00191"
+  },
+  {
+    "state_code": 29,
+    "district_code": 527,
+    "district_name": "Belagavi",
+    "cspp_code": "CSPP-DISTRICT-00527"
+  },
+  {
+    "state_code": 10,
+    "district_code": 192,
+    "district_name": "Bhagalpur",
+    "cspp_code": "CSPP-DISTRICT-00192"
+  },
+  {
+    "state_code": 22,
+    "district_code": 375,
+    "district_name": "Bilaspur",
+    "cspp_code": "CSPP-DISTRICT-00375"
+  },
+  {
+    "state_code": 14,
+    "district_code": 252,
+    "district_name": "Bishnupur",
+    "cspp_code": "CSPP-DISTRICT-00252"
+  },
+  {
+    "state_code": 18,
+    "district_code": 705,
+    "district_name": "Biswanath",
+    "cspp_code": "CSPP-DISTRICT-00705"
+  },
+  {
+    "state_code": 9,
+    "district_code": 133,
+    "district_name": "Budaun",
+    "cspp_code": "CSPP-DISTRICT-00133"
+  },
+  {
+    "state_code": 9,
+    "district_code": 134,
+    "district_name": "Bulandshahr",
+    "cspp_code": "CSPP-DISTRICT-00134"
+  },
+  {
+    "state_code": 8,
+    "district_code": 94,
+    "district_name": "Bundi",
+    "cspp_code": "CSPP-DISTRICT-00094"
+  },
+  {
+    "state_code": 18,
+    "district_code": 282,
+    "district_name": "Cachar",
+    "cspp_code": "CSPP-DISTRICT-00282"
+  },
+  {
+    "state_code": 29,
+    "district_code": 531,
+    "district_name": "Chamarajanagara",
+    "cspp_code": "CSPP-DISTRICT-00531"
+  },
+  {
+    "state_code": 5,
+    "district_code": 48,
+    "district_name": "Champawat",
+    "cspp_code": "CSPP-DISTRICT-00048"
+  },
+  {
+    "state_code": 18,
+    "district_code": 708,
+    "district_name": "Charaideo",
+    "cspp_code": "CSPP-DISTRICT-00708"
+  },
+  {
+    "state_code": 33,
+    "district_code": 568,
+    "district_name": "Chennai",
+    "cspp_code": "CSPP-DISTRICT-00568"
+  },
+  {
+    "state_code": 18,
+    "district_code": 612,
+    "district_name": "Chirang",
+    "cspp_code": "CSPP-DISTRICT-00612"
+  },
+  {
+    "state_code": 33,
+    "district_code": 569,
+    "district_name": "Coimbatore",
+    "cspp_code": "CSPP-DISTRICT-00569"
+  },
+  {
+    "state_code": 23,
+    "district_code": 401,
+    "district_name": "Datia",
+    "cspp_code": "CSPP-DISTRICT-00401"
+  },
+  {
+    "state_code": 20,
+    "district_code": 325,
+    "district_name": "Dhanbad",
+    "cspp_code": "CSPP-DISTRICT-00325"
+  },
+  {
+    "state_code": 33,
+    "district_code": 571,
+    "district_name": "Dharmapuri",
+    "cspp_code": "CSPP-DISTRICT-00571"
+  },
+  {
+    "state_code": 29,
+    "district_code": 536,
+    "district_name": "Dharwad",
+    "cspp_code": "CSPP-DISTRICT-00536"
+  },
+  {
+    "state_code": 8,
+    "district_code": 98,
+    "district_name": "Dholpur",
+    "cspp_code": "CSPP-DISTRICT-00098"
+  },
+  {
+    "state_code": 18,
+    "district_code": 286,
+    "district_name": "Dibrugarh",
+    "cspp_code": "CSPP-DISTRICT-00286"
+  },
+  {
+    "state_code": 22,
+    "district_code": 378,
+    "district_name": "Durg",
+    "cspp_code": "CSPP-DISTRICT-00378"
+  },
+  {
+    "state_code": 17,
+    "district_code": 273,
+    "district_name": "East Garo Hills",
+    "cspp_code": "CSPP-DISTRICT-00273"
+  },
+  {
+    "state_code": 3,
+    "district_code": 29,
+    "district_name": "Faridkot",
+    "cspp_code": "CSPP-DISTRICT-00029"
+  },
+  {
+    "state_code": 3,
+    "district_code": 30,
+    "district_name": "Fatehgarh Sahib",
+    "cspp_code": "CSPP-DISTRICT-00030"
+  },
+  {
+    "state_code": 21,
+    "district_code": 354,
+    "district_name": "Ganjam",
+    "cspp_code": "CSPP-DISTRICT-00354"
+  },
+  {
+    "state_code": 9,
+    "district_code": 144,
+    "district_name": "Gautam Buddha Nagar",
+    "cspp_code": "CSPP-DISTRICT-00144"
+  },
+  {
+    "state_code": 9,
+    "district_code": 146,
+    "district_name": "Ghazipur",
+    "cspp_code": "CSPP-DISTRICT-00146"
+  },
+  {
+    "state_code": 20,
+    "district_code": 330,
+    "district_name": "Godda",
+    "cspp_code": "CSPP-DISTRICT-00330"
+  },
+  {
+    "state_code": 6,
+    "district_code": 62,
+    "district_name": "Gurugram",
+    "cspp_code": "CSPP-DISTRICT-00062"
+  },
+  {
+    "state_code": 9,
+    "district_code": 661,
+    "district_name": "Hapur",
+    "cspp_code": "CSPP-DISTRICT-00661"
+  },
+  {
+    "state_code": 9,
+    "district_code": 163,
+    "district_name": "Hathras",
+    "cspp_code": "CSPP-DISTRICT-00163"
+  },
+  {
+    "state_code": 29,
+    "district_code": 540,
+    "district_name": "Haveri",
+    "cspp_code": "CSPP-DISTRICT-00540"
+  },
+  {
+    "state_code": 6,
+    "district_code": 63,
+    "district_name": "Hisar",
+    "cspp_code": "CSPP-DISTRICT-00063"
+  },
+  {
+    "state_code": 15,
+    "district_code": 726,
+    "district_name": "Hnahthial",
+    "cspp_code": "CSPP-DISTRICT-00726"
+  },
+  {
+    "state_code": 36,
+    "district_code": 507,
+    "district_name": "Hyderabad",
+    "cspp_code": "CSPP-DISTRICT-00507"
+  },
+  {
+    "state_code": 9,
+    "district_code": 151,
+    "district_name": "Jalaun",
+    "cspp_code": "CSPP-DISTRICT-00151"
+  },
+  {
+    "state_code": 27,
+    "district_code": 479,
+    "district_name": "Jalna",
+    "cspp_code": "CSPP-DISTRICT-00479"
+  },
+  {
+    "state_code": 24,
+    "district_code": 447,
+    "district_name": "Jamnagar",
+    "cspp_code": "CSPP-DISTRICT-00447"
+  },
+  {
+    "state_code": 22,
+    "district_code": 380,
+    "district_name": "Jashpur",
+    "cspp_code": "CSPP-DISTRICT-00380"
+  },
+  {
+    "state_code": 23,
+    "district_code": 412,
+    "district_name": "Jhabua",
+    "cspp_code": "CSPP-DISTRICT-00412"
+  },
+  {
+    "state_code": 6,
+    "district_code": 65,
+    "district_name": "Jind",
+    "cspp_code": "CSPP-DISTRICT-00065"
+  },
+  {
+    "state_code": 14,
+    "district_code": 713,
+    "district_name": "Jiribam",
+    "cspp_code": "CSPP-DISTRICT-00713"
+  },
+  {
+    "state_code": 8,
+    "district_code": 107,
+    "district_name": "Jodhpur",
+    "cspp_code": "CSPP-DISTRICT-00107"
+  },
+  {
+    "state_code": 8,
+    "district_code": 778,
+    "district_name": "Jodhpur (Gramin)",
+    "cspp_code": "CSPP-DISTRICT-00778"
+  },
+  {
+    "state_code": 18,
+    "district_code": 290,
+    "district_name": "Jorhat",
+    "cspp_code": "CSPP-DISTRICT-00290"
+  },
+  {
+    "state_code": 24,
+    "district_code": 449,
+    "district_name": "Kachchh",
+    "cspp_code": "CSPP-DISTRICT-00449"
+  },
+  {
+    "state_code": 28,
+    "district_code": 746,
+    "district_name": "Kakinada",
+    "cspp_code": "CSPP-DISTRICT-00746"
+  },
+  {
+    "state_code": 21,
+    "district_code": 358,
+    "district_name": "Kalahandi",
+    "cspp_code": "CSPP-DISTRICT-00358"
+  },
+  {
+    "state_code": 33,
+    "district_code": 729,
+    "district_name": "Kallakurichi",
+    "cspp_code": "CSPP-DISTRICT-00729"
+  },
+  {
+    "state_code": 36,
+    "district_code": 685,
+    "district_name": "Kamareddy",
+    "cspp_code": "CSPP-DISTRICT-00685"
+  },
+  {
+    "state_code": 18,
+    "district_code": 618,
+    "district_name": "Kamrup Metro",
+    "cspp_code": "CSPP-DISTRICT-00618"
+  },
+  {
+    "state_code": 32,
+    "district_code": 557,
+    "district_name": "Kannur",
+    "cspp_code": "CSPP-DISTRICT-00557"
+  },
+  {
+    "state_code": 9,
+    "district_code": 157,
+    "district_name": "Kanpur Nagar",
+    "cspp_code": "CSPP-DISTRICT-00157"
+  },
+  {
+    "state_code": 3,
+    "district_code": 35,
+    "district_name": "Kapurthala",
+    "cspp_code": "CSPP-DISTRICT-00035"
+  },
+  {
+    "state_code": 37,
+    "district_code": 6,
+    "district_name": "Kargil",
+    "cspp_code": "CSPP-DISTRICT-00006"
+  },
+  {
+    "state_code": 33,
+    "district_code": 576,
+    "district_name": "Karur",
+    "cspp_code": "CSPP-DISTRICT-00576"
+  },
+  {
+    "state_code": 1,
+    "district_code": 7,
+    "district_name": "Kathua",
+    "cspp_code": "CSPP-DISTRICT-00007"
+  },
+  {
+    "state_code": 8,
+    "district_code": 770,
+    "district_name": "Khairthal-Tijara",
+    "cspp_code": "CSPP-DISTRICT-00770"
+  },
+  {
+    "state_code": 23,
+    "district_code": 405,
+    "district_name": "Khandwa (East Nimar)",
+    "cspp_code": "CSPP-DISTRICT-00405"
+  },
+  {
+    "state_code": 29,
+    "district_code": 542,
+    "district_name": "Kolar",
+    "cspp_code": "CSPP-DISTRICT-00542"
+  },
+  {
+    "state_code": 36,
+    "district_code": 699,
+    "district_name": "Kumuram Bheem Asifabad",
+    "cspp_code": "CSPP-DISTRICT-00699"
+  },
+  {
+    "state_code": 15,
+    "district_code": 264,
+    "district_name": "Lawngtlai",
+    "cspp_code": "CSPP-DISTRICT-00264"
+  },
+  {
+    "state_code": 20,
+    "district_code": 336,
+    "district_name": "Lohardaga",
+    "cspp_code": "CSPP-DISTRICT-00336"
+  },
+  {
+    "state_code": 12,
+    "district_code": 235,
+    "district_name": "Lower Dibang Valley",
+    "cspp_code": "CSPP-DISTRICT-00235"
+  },
+  {
+    "state_code": 12,
+    "district_code": 719,
+    "district_name": "Lower Siang",
+    "cspp_code": "CSPP-DISTRICT-00719"
+  },
+  {
+    "state_code": 9,
+    "district_code": 165,
+    "district_name": "Mahoba",
+    "cspp_code": "CSPP-DISTRICT-00165"
+  },
+  {
+    "state_code": 23,
+    "district_code": 415,
+    "district_name": "Mandla",
+    "cspp_code": "CSPP-DISTRICT-00415"
+  },
+  {
+    "state_code": 33,
+    "district_code": 735,
+    "district_name": "Mayiladuthurai",
+    "cspp_code": "CSPP-DISTRICT-00735"
+  },
+  {
+    "state_code": 36,
+    "district_code": 513,
+    "district_name": "Medak",
+    "cspp_code": "CSPP-DISTRICT-00513"
+  },
+  {
+    "state_code": 9,
+    "district_code": 170,
+    "district_name": "Mirzapur",
+    "cspp_code": "CSPP-DISTRICT-00170"
+  },
+  {
+    "state_code": 13,
+    "district_code": 246,
+    "district_name": "Mokokchung",
+    "cspp_code": "CSPP-DISTRICT-00246"
+  },
+  {
+    "state_code": 9,
+    "district_code": 171,
+    "district_name": "Moradabad",
+    "cspp_code": "CSPP-DISTRICT-00171"
+  },
+  {
+    "state_code": 24,
+    "district_code": 673,
+    "district_name": "Morbi",
+    "cspp_code": "CSPP-DISTRICT-00673"
+  },
+  {
+    "state_code": 27,
+    "district_code": 482,
+    "district_name": "Mumbai",
+    "cspp_code": "CSPP-DISTRICT-00482"
+  },
+  {
+    "state_code": 27,
+    "district_code": 483,
+    "district_name": "Mumbai Suburban",
+    "cspp_code": "CSPP-DISTRICT-00483"
+  },
+  {
+    "state_code": 36,
+    "district_code": 694,
+    "district_name": "Nagarkurnool",
+    "cspp_code": "CSPP-DISTRICT-00694"
+  },
+  {
+    "state_code": 10,
+    "district_code": 209,
+    "district_name": "Nalanda",
+    "cspp_code": "CSPP-DISTRICT-00209"
+  },
+  {
+    "state_code": 36,
+    "district_code": 514,
+    "district_name": "Nalgonda",
+    "cspp_code": "CSPP-DISTRICT-00514"
+  },
+  {
+    "state_code": 10,
+    "district_code": 210,
+    "district_name": "Nawada",
+    "cspp_code": "CSPP-DISTRICT-00210"
+  },
+  {
+    "state_code": 7,
+    "district_code": 80,
+    "district_name": "North",
+    "cspp_code": "CSPP-DISTRICT-00080"
+  },
+  {
+    "state_code": 7,
+    "district_code": 82,
+    "district_name": "North West",
+    "cspp_code": "CSPP-DISTRICT-00082"
+  },
+  {
+    "state_code": 12,
+    "district_code": 237,
+    "district_name": "Papum Pare",
+    "cspp_code": "CSPP-DISTRICT-00237"
+  },
+  {
+    "state_code": 32,
+    "district_code": 564,
+    "district_name": "Pathanamthitta",
+    "cspp_code": "CSPP-DISTRICT-00564"
+  },
+  {
+    "state_code": 24,
+    "district_code": 456,
+    "district_name": "Porbandar",
+    "cspp_code": "CSPP-DISTRICT-00456"
+  },
+  {
+    "state_code": 9,
+    "district_code": 120,
+    "district_name": "Prayagraj",
+    "cspp_code": "CSPP-DISTRICT-00120"
+  },
+  {
+    "state_code": 9,
+    "district_code": 175,
+    "district_name": "Rae Bareli",
+    "cspp_code": "CSPP-DISTRICT-00175"
+  },
+  {
+    "state_code": 29,
+    "district_code": 546,
+    "district_name": "Raichur",
+    "cspp_code": "CSPP-DISTRICT-00546"
+  },
+  {
+    "state_code": 36,
+    "district_code": 683,
+    "district_name": "Rajanna Sircilla",
+    "cspp_code": "CSPP-DISTRICT-00683"
+  },
+  {
+    "state_code": 1,
+    "district_code": 621,
+    "district_name": "Ramban",
+    "cspp_code": "CSPP-DISTRICT-00621"
+  },
+  {
+    "state_code": 23,
+    "district_code": 423,
+    "district_name": "Ratlam",
+    "cspp_code": "CSPP-DISTRICT-00423"
+  },
+  {
+    "state_code": 6,
+    "district_code": 72,
+    "district_name": "Rewari",
+    "cspp_code": "CSPP-DISTRICT-00072"
+  },
+  {
+    "state_code": 17,
+    "district_code": 276,
+    "district_name": "Ri Bhoi",
+    "cspp_code": "CSPP-DISTRICT-00276"
+  },
+  {
+    "state_code": 6,
+    "district_code": 73,
+    "district_name": "Rohtak",
+    "cspp_code": "CSPP-DISTRICT-00073"
+  },
+  {
+    "state_code": 1,
+    "district_code": 624,
+    "district_name": "Samba",
+    "cspp_code": "CSPP-DISTRICT-00624"
+  },
+  {
+    "state_code": 21,
+    "district_code": 371,
+    "district_name": "Sambalpur",
+    "cspp_code": "CSPP-DISTRICT-00371"
+  },
+  {
+    "state_code": 27,
+    "district_code": 493,
+    "district_name": "Sangli",
+    "cspp_code": "CSPP-DISTRICT-00493"
+  },
+  {
+    "state_code": 23,
+    "district_code": 427,
+    "district_name": "Sehore",
+    "cspp_code": "CSPP-DISTRICT-00427"
+  },
+  {
+    "state_code": 14,
+    "district_code": 257,
+    "district_name": "Senapati",
+    "cspp_code": "CSPP-DISTRICT-00257"
+  },
+  {
+    "state_code": 8,
+    "district_code": 780,
+    "district_name": "Shahpura",
+    "cspp_code": "CSPP-DISTRICT-00780"
+  },
+  {
+    "state_code": 10,
+    "district_code": 219,
+    "district_name": "Sheikhpura",
+    "cspp_code": "CSPP-DISTRICT-00219"
+  },
+  {
+    "state_code": 12,
+    "district_code": 679,
+    "district_name": "Siang",
+    "cspp_code": "CSPP-DISTRICT-00679"
+  },
+  {
+    "state_code": 36,
+    "district_code": 692,
+    "district_name": "Siddipet",
+    "cspp_code": "CSPP-DISTRICT-00692"
+  },
+  {
+    "state_code": 2,
+    "district_code": 24,
+    "district_name": "Sirmaur",
+    "cspp_code": "CSPP-DISTRICT-00024"
+  },
+  {
+    "state_code": 18,
+    "district_code": 300,
+    "district_name": "Sivasagar",
+    "cspp_code": "CSPP-DISTRICT-00300"
+  },
+  {
+    "state_code": 18,
+    "district_code": 301,
+    "district_name": "Sonitpur",
+    "cspp_code": "CSPP-DISTRICT-00301"
+  },
+  {
+    "state_code": 16,
+    "district_code": 271,
+    "district_name": "South Tripura",
+    "cspp_code": "CSPP-DISTRICT-00271"
+  },
+  {
+    "state_code": 9,
+    "district_code": 185,
+    "district_name": "Sultanpur",
+    "cspp_code": "CSPP-DISTRICT-00185"
+  },
+  {
+    "state_code": 21,
+    "district_code": 373,
+    "district_name": "Sundargarh",
+    "cspp_code": "CSPP-DISTRICT-00373"
+  },
+  {
+    "state_code": 24,
+    "district_code": 459,
+    "district_name": "Surat",
+    "cspp_code": "CSPP-DISTRICT-00459"
+  },
+  {
+    "state_code": 24,
+    "district_code": 460,
+    "district_name": "Surendranagar",
+    "cspp_code": "CSPP-DISTRICT-00460"
+  },
+  {
+    "state_code": 33,
+    "district_code": 594,
+    "district_name": "Thoothukkudi",
+    "cspp_code": "CSPP-DISTRICT-00594"
+  },
+  {
+    "state_code": 32,
+    "district_code": 566,
+    "district_name": "Thrissur",
+    "cspp_code": "CSPP-DISTRICT-00566"
+  },
+  {
+    "state_code": 28,
+    "district_code": 752,
+    "district_name": "Tirupati",
+    "cspp_code": "CSPP-DISTRICT-00752"
+  },
+  {
+    "state_code": 13,
+    "district_code": 249,
+    "district_name": "Tuensang",
+    "cspp_code": "CSPP-DISTRICT-00249"
+  },
+  {
+    "state_code": 5,
+    "district_code": 56,
+    "district_name": "Udam Singh Nagar",
+    "cspp_code": "CSPP-DISTRICT-00056"
+  },
+  {
+    "state_code": 1,
+    "district_code": 14,
+    "district_name": "Udhampur",
+    "cspp_code": "CSPP-DISTRICT-00014"
+  },
+  {
+    "state_code": 23,
+    "district_code": 435,
+    "district_name": "Ujjain",
+    "cspp_code": "CSPP-DISTRICT-00435"
+  },
+  {
+    "state_code": 9,
+    "district_code": 186,
+    "district_name": "Unnao",
+    "cspp_code": "CSPP-DISTRICT-00186"
+  },
+  {
+    "state_code": 19,
+    "district_code": 311,
+    "district_name": "Uttar Dinajpur",
+    "cspp_code": "CSPP-DISTRICT-00311"
+  },
+  {
+    "state_code": 33,
+    "district_code": 595,
+    "district_name": "Vellore",
+    "cspp_code": "CSPP-DISTRICT-00595"
+  },
+  {
+    "state_code": 36,
+    "district_code": 693,
+    "district_name": "Wanaparthy",
+    "cspp_code": "CSPP-DISTRICT-00693"
+  },
+  {
+    "state_code": 28,
+    "district_code": 523,
+    "district_name": "West Godavari",
+    "cspp_code": "CSPP-DISTRICT-00523"
+  },
+  {
+    "state_code": 12,
+    "district_code": 242,
+    "district_name": "West Kameng",
+    "cspp_code": "CSPP-DISTRICT-00242"
+  },
+  {
+    "state_code": 6,
+    "district_code": 76,
+    "district_name": "Yamunanagar",
+    "cspp_code": "CSPP-DISTRICT-00076"
+  },
+  {
+    "state_code": 27,
+    "district_code": 500,
+    "district_name": "Yavatmal",
+    "cspp_code": "CSPP-DISTRICT-00500"
+  },
+  {
+    "state_code": 27,
+    "district_code": 466,
+    "district_name": "Ahmednagar",
+    "cspp_code": "CSPP-DISTRICT-00466"
+  },
+  {
+    "state_code": 28,
+    "district_code": 745,
+    "district_name": "Alluri Sitharama Raju",
+    "cspp_code": "CSPP-DISTRICT-00745"
+  },
+  {
+    "state_code": 9,
+    "district_code": 154,
+    "district_name": "Amroha",
+    "cspp_code": "CSPP-DISTRICT-00154"
+  },
+  {
+    "state_code": 28,
+    "district_code": 744,
+    "district_name": "Anakapalli",
+    "cspp_code": "CSPP-DISTRICT-00744"
+  },
+  {
+    "state_code": 12,
+    "district_code": 628,
+    "district_name": "Anjaw",
+    "cspp_code": "CSPP-DISTRICT-00628"
+  },
+  {
+    "state_code": 8,
+    "district_code": 776,
+    "district_name": "Anupgarh",
+    "cspp_code": "CSPP-DISTRICT-00776"
+  },
+  {
+    "state_code": 9,
+    "district_code": 122,
+    "district_name": "Auraiya",
+    "cspp_code": "CSPP-DISTRICT-00122"
+  },
+  {
+    "state_code": 9,
+    "district_code": 140,
+    "district_name": "Ayodhya",
+    "cspp_code": "CSPP-DISTRICT-00140"
+  },
+  {
+    "state_code": 18,
+    "district_code": 739,
+    "district_name": "Bajali",
+    "cspp_code": "CSPP-DISTRICT-00739"
+  },
+  {
+    "state_code": 21,
+    "district_code": 345,
+    "district_name": "Balangir",
+    "cspp_code": "CSPP-DISTRICT-00345"
+  },
+  {
+    "state_code": 9,
+    "district_code": 129,
+    "district_name": "Bara Banki",
+    "cspp_code": "CSPP-DISTRICT-00129"
+  },
+  {
+    "state_code": 36,
+    "district_code": 690,
+    "district_name": "Bhadradri Kothagudem",
+    "cspp_code": "CSPP-DISTRICT-00690"
+  },
+  {
+    "state_code": 8,
+    "district_code": 91,
+    "district_name": "Bharatpur",
+    "cspp_code": "CSPP-DISTRICT-00091"
+  },
+  {
+    "state_code": 10,
+    "district_code": 193,
+    "district_name": "Bhojpur",
+    "cspp_code": "CSPP-DISTRICT-00193"
+  },
+  {
+    "state_code": 8,
+    "district_code": 93,
+    "district_name": "Bikaner",
+    "cspp_code": "CSPP-DISTRICT-00093"
+  },
+  {
+    "state_code": 19,
+    "district_code": 307,
+    "district_name": "Birbhum",
+    "cspp_code": "CSPP-DISTRICT-00307"
+  },
+  {
+    "state_code": 6,
+    "district_code": 701,
+    "district_name": "Charki Dadri",
+    "cspp_code": "CSPP-DISTRICT-00701"
+  },
+  {
+    "state_code": 29,
+    "district_code": 630,
+    "district_name": "Chikkaballapura",
+    "cspp_code": "CSPP-DISTRICT-00630"
+  },
+  {
+    "state_code": 28,
+    "district_code": 503,
+    "district_name": "Chittoor",
+    "cspp_code": "CSPP-DISTRICT-00503"
+  },
+  {
+    "state_code": 22,
+    "district_code": 376,
+    "district_name": "Dakshin Bastar Dantewada",
+    "cspp_code": "CSPP-DISTRICT-00376"
+  },
+  {
+    "state_code": 18,
+    "district_code": 283,
+    "district_name": "Darrang",
+    "cspp_code": "CSPP-DISTRICT-00283"
+  },
+  {
+    "state_code": 5,
+    "district_code": 49,
+    "district_name": "Dehradun",
+    "cspp_code": "CSPP-DISTRICT-00049"
+  },
+  {
+    "state_code": 21,
+    "district_code": 351,
+    "district_name": "Deogarh",
+    "cspp_code": "CSPP-DISTRICT-00351"
+  },
+  {
+    "state_code": 18,
+    "district_code": 284,
+    "district_name": "Dhemaji",
+    "cspp_code": "CSPP-DISTRICT-00284"
+  },
+  {
+    "state_code": 18,
+    "district_code": 285,
+    "district_name": "Dhubri",
+    "cspp_code": "CSPP-DISTRICT-00285"
+  },
+  {
+    "state_code": 12,
+    "district_code": 230,
+    "district_name": "Dibang Valley",
+    "cspp_code": "CSPP-DISTRICT-00230"
+  },
+  {
+    "state_code": 8,
+    "district_code": 768,
+    "district_name": "Didwana-Kuchaman",
+    "cspp_code": "CSPP-DISTRICT-00768"
+  },
+  {
+    "state_code": 13,
+    "district_code": 244,
+    "district_name": "Dimapur",
+    "cspp_code": "CSPP-DISTRICT-00244"
+  },
+  {
+    "state_code": 33,
+    "district_code": 572,
+    "district_name": "Dindigul",
+    "cspp_code": "CSPP-DISTRICT-00572"
+  },
+  {
+    "state_code": 38,
+    "district_code": 464,
+    "district_name": "Diu",
+    "cspp_code": "CSPP-DISTRICT-00464"
+  },
+  {
+    "state_code": 1,
+    "district_code": 4,
+    "district_name": "Doda",
+    "cspp_code": "CSPP-DISTRICT-00004"
+  },
+  {
+    "state_code": 8,
+    "district_code": 99,
+    "district_name": "Dungarpur",
+    "cspp_code": "CSPP-DISTRICT-00099"
+  },
+  {
+    "state_code": 12,
+    "district_code": 232,
+    "district_name": "East Siang",
+    "cspp_code": "CSPP-DISTRICT-00232"
+  },
+  {
+    "state_code": 32,
+    "district_code": 555,
+    "district_name": "Ernakulam",
+    "cspp_code": "CSPP-DISTRICT-00555"
+  },
+  {
+    "state_code": 9,
+    "district_code": 138,
+    "district_name": "Etah",
+    "cspp_code": "CSPP-DISTRICT-00138"
+  },
+  {
+    "state_code": 9,
+    "district_code": 141,
+    "district_name": "Farrukhabad",
+    "cspp_code": "CSPP-DISTRICT-00141"
+  },
+  {
+    "state_code": 6,
+    "district_code": 61,
+    "district_name": "Fatehabad",
+    "cspp_code": "CSPP-DISTRICT-00061"
+  },
+  {
+    "state_code": 9,
+    "district_code": 142,
+    "district_name": "Fatehpur",
+    "cspp_code": "CSPP-DISTRICT-00142"
+  },
+  {
+    "state_code": 29,
+    "district_code": 537,
+    "district_name": "Gadag",
+    "cspp_code": "CSPP-DISTRICT-00537"
+  },
+  {
+    "state_code": 8,
+    "district_code": 771,
+    "district_name": "Gangapurcity",
+    "cspp_code": "CSPP-DISTRICT-00771"
+  },
+  {
+    "state_code": 11,
+    "district_code": 225,
+    "district_name": "Gangtok",
+    "cspp_code": "CSPP-DISTRICT-00225"
+  },
+  {
+    "state_code": 9,
+    "district_code": 145,
+    "district_name": "Ghaziabad",
+    "cspp_code": "CSPP-DISTRICT-00145"
+  },
+  {
+    "state_code": 9,
+    "district_code": 147,
+    "district_name": "Gonda",
+    "cspp_code": "CSPP-DISTRICT-00147"
+  },
+  {
+    "state_code": 10,
+    "district_code": 197,
+    "district_name": "Gopalganj",
+    "cspp_code": "CSPP-DISTRICT-00197"
+  },
+  {
+    "state_code": 3,
+    "district_code": 32,
+    "district_name": "Gurdaspur",
+    "cspp_code": "CSPP-DISTRICT-00032"
+  },
+  {
+    "state_code": 23,
+    "district_code": 407,
+    "district_name": "Gwalior",
+    "cspp_code": "CSPP-DISTRICT-00407"
+  },
+  {
+    "state_code": 18,
+    "district_code": 289,
+    "district_name": "Hailakandi",
+    "cspp_code": "CSPP-DISTRICT-00289"
+  },
+  {
+    "state_code": 8,
+    "district_code": 101,
+    "district_name": "Hanumangarh",
+    "cspp_code": "CSPP-DISTRICT-00101"
+  },
+  {
+    "state_code": 9,
+    "district_code": 150,
+    "district_name": "Hardoi",
+    "cspp_code": "CSPP-DISTRICT-00150"
+  },
+  {
+    "state_code": 20,
+    "district_code": 332,
+    "district_name": "Hazaribagh",
+    "cspp_code": "CSPP-DISTRICT-00332"
+  },
+  {
+    "state_code": 27,
+    "district_code": 477,
+    "district_name": "Hingoli",
+    "cspp_code": "CSPP-DISTRICT-00477"
+  },
+  {
+    "state_code": 36,
+    "district_code": 681,
+    "district_name": "Jagitial",
+    "cspp_code": "CSPP-DISTRICT-00681"
+  },
+  {
+    "state_code": 21,
+    "district_code": 356,
+    "district_name": "Jajapur",
+    "cspp_code": "CSPP-DISTRICT-00356"
+  },
+  {
+    "state_code": 20,
+    "district_code": 333,
+    "district_name": "Jamtara",
+    "cspp_code": "CSPP-DISTRICT-00333"
+  },
+  {
+    "state_code": 10,
+    "district_code": 198,
+    "district_name": "Jamui",
+    "cspp_code": "CSPP-DISTRICT-00198"
+  },
+  {
+    "state_code": 22,
+    "district_code": 379,
+    "district_name": "Janjgir-Champa",
+    "cspp_code": "CSPP-DISTRICT-00379"
+  },
+  {
+    "state_code": 10,
+    "district_code": 199,
+    "district_name": "Jehanabad",
+    "cspp_code": "CSPP-DISTRICT-00199"
+  },
+  {
+    "state_code": 19,
+    "district_code": 703,
+    "district_name": "Jhargram",
+    "cspp_code": "CSPP-DISTRICT-00703"
+  },
+  {
+    "state_code": 10,
+    "district_code": 200,
+    "district_name": "Kaimur (Bhabua)",
+    "cspp_code": "CSPP-DISTRICT-00200"
+  },
+  {
+    "state_code": 33,
+    "district_code": 574,
+    "district_name": "Kancheepuram",
+    "cspp_code": "CSPP-DISTRICT-00574"
+  },
+  {
+    "state_code": 21,
+    "district_code": 359,
+    "district_name": "Kandhamal",
+    "cspp_code": "CSPP-DISTRICT-00359"
+  },
+  {
+    "state_code": 2,
+    "district_code": 18,
+    "district_name": "Kangra",
+    "cspp_code": "CSPP-DISTRICT-00018"
+  },
+  {
+    "state_code": 9,
+    "district_code": 155,
+    "district_name": "Kannauj",
+    "cspp_code": "CSPP-DISTRICT-00155"
+  },
+  {
+    "state_code": 6,
+    "district_code": 67,
+    "district_name": "Karnal",
+    "cspp_code": "CSPP-DISTRICT-00067"
+  },
+  {
+    "state_code": 9,
+    "district_code": 633,
+    "district_name": "Kasganj",
+    "cspp_code": "CSPP-DISTRICT-00633"
+  },
+  {
+    "state_code": 23,
+    "district_code": 413,
+    "district_name": "Katni",
+    "cspp_code": "CSPP-DISTRICT-00413"
+  },
+  {
+    "state_code": 10,
+    "district_code": 202,
+    "district_name": "Khagaria",
+    "cspp_code": "CSPP-DISTRICT-00202"
+  },
+  {
+    "state_code": 2,
+    "district_code": 19,
+    "district_name": "Kinnaur",
+    "cspp_code": "CSPP-DISTRICT-00019"
+  },
+  {
+    "state_code": 13,
+    "district_code": 614,
+    "district_name": "Kiphire",
+    "cspp_code": "CSPP-DISTRICT-00614"
+  },
+  {
+    "state_code": 10,
+    "district_code": 203,
+    "district_name": "Kishanganj",
+    "cspp_code": "CSPP-DISTRICT-00203"
+  },
+  {
+    "state_code": 20,
+    "district_code": 334,
+    "district_name": "Koderma",
+    "cspp_code": "CSPP-DISTRICT-00334"
+  },
+  {
+    "state_code": 29,
+    "district_code": 543,
+    "district_name": "Koppal",
+    "cspp_code": "CSPP-DISTRICT-00543"
+  },
+  {
+    "state_code": 8,
+    "district_code": 782,
+    "district_name": "Kotputli-Behror",
+    "cspp_code": "CSPP-DISTRICT-00782"
+  },
+  {
+    "state_code": 32,
+    "district_code": 560,
+    "district_name": "Kottayam",
+    "cspp_code": "CSPP-DISTRICT-00560"
+  },
+  {
+    "state_code": 32,
+    "district_code": 561,
+    "district_name": "Kozhikode",
+    "cspp_code": "CSPP-DISTRICT-00561"
+  },
+  {
+    "state_code": 28,
+    "district_code": 510,
+    "district_name": "Krishna",
+    "cspp_code": "CSPP-DISTRICT-00510"
+  },
+  {
+    "state_code": 1,
+    "district_code": 622,
+    "district_name": "Kulgam",
+    "cspp_code": "CSPP-DISTRICT-00622"
+  },
+  {
+    "state_code": 1,
+    "district_code": 8,
+    "district_name": "Kupwara",
+    "cspp_code": "CSPP-DISTRICT-00008"
+  },
+  {
+    "state_code": 28,
+    "district_code": 511,
+    "district_name": "Kurnool",
+    "cspp_code": "CSPP-DISTRICT-00511"
+  },
+  {
+    "state_code": 10,
+    "district_code": 204,
+    "district_name": "Lakhisarai",
+    "cspp_code": "CSPP-DISTRICT-00204"
+  },
+  {
+    "state_code": 27,
+    "district_code": 481,
+    "district_name": "Latur",
+    "cspp_code": "CSPP-DISTRICT-00481"
+  },
+  {
+    "state_code": 15,
+    "district_code": 265,
+    "district_name": "Lunglei",
+    "cspp_code": "CSPP-DISTRICT-00265"
+  },
+  {
+    "state_code": 36,
+    "district_code": 688,
+    "district_name": "Mahabubabad",
+    "cspp_code": "CSPP-DISTRICT-00688"
+  },
+  {
+    "state_code": 24,
+    "district_code": 451,
+    "district_name": "Mahesana",
+    "cspp_code": "CSPP-DISTRICT-00451"
+  },
+  {
+    "state_code": 9,
+    "district_code": 164,
+    "district_name": "Mahrajganj",
+    "cspp_code": "CSPP-DISTRICT-00164"
+  },
+  {
+    "state_code": 15,
+    "district_code": 266,
+    "district_name": "Mamit",
+    "cspp_code": "CSPP-DISTRICT-00266"
+  },
+  {
+    "state_code": 2,
+    "district_code": 22,
+    "district_name": "Mandi",
+    "cspp_code": "CSPP-DISTRICT-00022"
+  },
+  {
+    "state_code": 22,
+    "district_code": 760,
+    "district_name": "Manendragarh-Chirmiri-Bharatpur(M C B)",
+    "cspp_code": "CSPP-DISTRICT-00760"
+  },
+  {
+    "state_code": 21,
+    "district_code": 365,
+    "district_name": "Mayurbhanj",
+    "cspp_code": "CSPP-DISTRICT-00365"
+  },
+  {
+    "state_code": 36,
+    "district_code": 700,
+    "district_name": "Medchal Malkajgiri",
+    "cspp_code": "CSPP-DISTRICT-00700"
+  },
+  {
+    "state_code": 23,
+    "district_code": 417,
+    "district_name": "Morena",
+    "cspp_code": "CSPP-DISTRICT-00417"
+  },
+  {
+    "state_code": 19,
+    "district_code": 319,
+    "district_name": "Murshidabad",
+    "cspp_code": "CSPP-DISTRICT-00319"
+  },
+  {
+    "state_code": 21,
+    "district_code": 366,
+    "district_name": "Nabarangpur",
+    "cspp_code": "CSPP-DISTRICT-00366"
+  },
+  {
+    "state_code": 19,
+    "district_code": 320,
+    "district_name": "Nadia",
+    "cspp_code": "CSPP-DISTRICT-00320"
+  },
+  {
+    "state_code": 27,
+    "district_code": 485,
+    "district_name": "Nanded",
+    "cspp_code": "CSPP-DISTRICT-00485"
+  },
+  {
+    "state_code": 27,
+    "district_code": 486,
+    "district_name": "Nandurbar",
+    "cspp_code": "CSPP-DISTRICT-00486"
+  },
+  {
+    "state_code": 36,
+    "district_code": 721,
+    "district_name": "Narayanpet",
+    "cspp_code": "CSPP-DISTRICT-00721"
+  },
+  {
+    "state_code": 23,
+    "district_code": 418,
+    "district_name": "Narsimhapur",
+    "cspp_code": "CSPP-DISTRICT-00418"
+  },
+  {
+    "state_code": 23,
+    "district_code": 419,
+    "district_name": "Neemuch",
+    "cspp_code": "CSPP-DISTRICT-00419"
+  },
+  {
+    "state_code": 35,
+    "district_code": 603,
+    "district_name": "Nicobars",
+    "cspp_code": "CSPP-DISTRICT-00603"
+  },
+  {
+    "state_code": 36,
+    "district_code": 680,
+    "district_name": "Nirmal",
+    "cspp_code": "CSPP-DISTRICT-00680"
+  },
+  {
+    "state_code": 23,
+    "district_code": 722,
+    "district_name": "Niwari",
+    "cspp_code": "CSPP-DISTRICT-00722"
+  },
+  {
+    "state_code": 36,
+    "district_code": 516,
+    "district_name": "Nizamabad",
+    "cspp_code": "CSPP-DISTRICT-00516"
+  },
+  {
+    "state_code": 13,
+    "district_code": 736,
+    "district_name": "Noklak",
+    "cspp_code": "CSPP-DISTRICT-00736"
+  },
+  {
+    "state_code": 30,
+    "district_code": 551,
+    "district_name": "North Goa",
+    "cspp_code": "CSPP-DISTRICT-00551"
+  },
+  {
+    "state_code": 12,
+    "district_code": 723,
+    "district_name": "Pakke Kessang",
+    "cspp_code": "CSPP-DISTRICT-00723"
+  },
+  {
+    "state_code": 20,
+    "district_code": 337,
+    "district_name": "Pakur",
+    "cspp_code": "CSPP-DISTRICT-00337"
+  },
+  {
+    "state_code": 23,
+    "district_code": 785,
+    "district_name": "Pandhurna",
+    "cspp_code": "CSPP-DISTRICT-00785"
+  },
+  {
+    "state_code": 27,
+    "district_code": 489,
+    "district_name": "Parbhani",
+    "cspp_code": "CSPP-DISTRICT-00489"
+  },
+  {
+    "state_code": 19,
+    "district_code": 704,
+    "district_name": "Paschim Bardhaman",
+    "cspp_code": "CSPP-DISTRICT-00704"
+  },
+  {
+    "state_code": 19,
+    "district_code": 318,
+    "district_name": "Paschim Medinipur",
+    "cspp_code": "CSPP-DISTRICT-00318"
+  },
+  {
+    "state_code": 3,
+    "district_code": 41,
+    "district_name": "Patiala",
+    "cspp_code": "CSPP-DISTRICT-00041"
+  },
+  {
+    "state_code": 10,
+    "district_code": 212,
+    "district_name": "Patna",
+    "cspp_code": "CSPP-DISTRICT-00212"
+  },
+  {
+    "state_code": 36,
+    "district_code": 682,
+    "district_name": "Peddapalli",
+    "cspp_code": "CSPP-DISTRICT-00682"
+  },
+  {
+    "state_code": 1,
+    "district_code": 10,
+    "district_name": "Poonch",
+    "cspp_code": "CSPP-DISTRICT-00010"
+  },
+  {
+    "state_code": 9,
+    "district_code": 174,
+    "district_name": "Pratapgarh",
+    "cspp_code": "CSPP-DISTRICT-00174"
+  },
+  {
+    "state_code": 34,
+    "district_code": 600,
+    "district_name": "Puducherry",
+    "cspp_code": "CSPP-DISTRICT-00600"
+  },
+  {
+    "state_code": 1,
+    "district_code": 11,
+    "district_name": "Pulwama",
+    "cspp_code": "CSPP-DISTRICT-00011"
+  },
+  {
+    "state_code": 27,
+    "district_code": 490,
+    "district_name": "Pune",
+    "cspp_code": "CSPP-DISTRICT-00490"
+  },
+  {
+    "state_code": 27,
+    "district_code": 491,
+    "district_name": "Raigad",
+    "cspp_code": "CSPP-DISTRICT-00491"
+  },
+  {
+    "state_code": 22,
+    "district_code": 386,
+    "district_name": "Raigarh",
+    "cspp_code": "CSPP-DISTRICT-00386"
+  },
+  {
+    "state_code": 22,
+    "district_code": 387,
+    "district_name": "Raipur",
+    "cspp_code": "CSPP-DISTRICT-00387"
+  },
+  {
+    "state_code": 23,
+    "district_code": 422,
+    "district_name": "Rajgarh",
+    "cspp_code": "CSPP-DISTRICT-00422"
+  },
+  {
+    "state_code": 1,
+    "district_code": 12,
+    "district_name": "Rajouri",
+    "cspp_code": "CSPP-DISTRICT-00012"
+  },
+  {
+    "state_code": 5,
+    "district_code": 54,
+    "district_name": "Rudra Prayag",
+    "cspp_code": "CSPP-DISTRICT-00054"
+  },
+  {
+    "state_code": 24,
+    "district_code": 458,
+    "district_name": "Sabar Kantha",
+    "cspp_code": "CSPP-DISTRICT-00458"
+  },
+  {
+    "state_code": 9,
+    "district_code": 177,
+    "district_name": "Saharanpur",
+    "cspp_code": "CSPP-DISTRICT-00177"
+  },
+  {
+    "state_code": 15,
+    "district_code": 727,
+    "district_name": "Saitual",
+    "cspp_code": "CSPP-DISTRICT-00727"
+  },
+  {
+    "state_code": 33,
+    "district_code": 584,
+    "district_name": "Salem",
+    "cspp_code": "CSPP-DISTRICT-00584"
+  },
+  {
+    "state_code": 8,
+    "district_code": 777,
+    "district_name": "Salumbar",
+    "cspp_code": "CSPP-DISTRICT-00777"
+  },
+  {
+    "state_code": 9,
+    "district_code": 659,
+    "district_name": "Sambhal",
+    "cspp_code": "CSPP-DISTRICT-00659"
+  },
+  {
+    "state_code": 36,
+    "district_code": 691,
+    "district_name": "Sangareddy",
+    "cspp_code": "CSPP-DISTRICT-00691"
+  },
+  {
+    "state_code": 10,
+    "district_code": 218,
+    "district_name": "Saran",
+    "cspp_code": "CSPP-DISTRICT-00218"
+  },
+  {
+    "state_code": 22,
+    "district_code": 763,
+    "district_name": "Sarangarh-Bilaigarh",
+    "cspp_code": "CSPP-DISTRICT-00763"
+  },
+  {
+    "state_code": 23,
+    "district_code": 426,
+    "district_name": "Satna",
+    "cspp_code": "CSPP-DISTRICT-00426"
+  },
+  {
+    "state_code": 7,
+    "district_code": 671,
+    "district_name": "Shahdara",
+    "cspp_code": "CSPP-DISTRICT-00671"
+  },
+  {
+    "state_code": 13,
+    "district_code": 765,
+    "district_name": "Shamator",
+    "cspp_code": "CSPP-DISTRICT-00765"
+  },
+  {
+    "state_code": 9,
+    "district_code": 660,
+    "district_name": "Shamli",
+    "cspp_code": "CSPP-DISTRICT-00660"
+  },
+  {
+    "state_code": 2,
+    "district_code": 23,
+    "district_name": "Shimla",
+    "cspp_code": "CSPP-DISTRICT-00023"
+  },
+  {
+    "state_code": 29,
+    "district_code": 547,
+    "district_name": "Shivamogga",
+    "cspp_code": "CSPP-DISTRICT-00547"
+  },
+  {
+    "state_code": 12,
+    "district_code": 725,
+    "district_name": "Shi Yomi",
+    "cspp_code": "CSPP-DISTRICT-00725"
+  },
+  {
+    "state_code": 15,
+    "district_code": 267,
+    "district_name": "Siaha",
+    "cspp_code": "CSPP-DISTRICT-00267"
+  },
+  {
+    "state_code": 10,
+    "district_code": 221,
+    "district_name": "Sitamarhi",
+    "cspp_code": "CSPP-DISTRICT-00221"
+  },
+  {
+    "state_code": 6,
+    "district_code": 75,
+    "district_name": "Sonipat",
+    "cspp_code": "CSPP-DISTRICT-00075"
+  },
+  {
+    "state_code": 35,
+    "district_code": 602,
+    "district_name": "South Andamans",
+    "cspp_code": "CSPP-DISTRICT-00602"
+  },
+  {
+    "state_code": 17,
+    "district_code": 277,
+    "district_name": "South Garo Hills",
+    "cspp_code": "CSPP-DISTRICT-00277"
+  },
+  {
+    "state_code": 17,
+    "district_code": 658,
+    "district_name": "South West Khasi Hills",
+    "cspp_code": "CSPP-DISTRICT-00658"
+  },
+  {
+    "state_code": 3,
+    "district_code": 39,
+    "district_name": "Sri Muktsar Sahib",
+    "cspp_code": "CSPP-DISTRICT-00039"
+  },
+  {
+    "state_code": 1,
+    "district_code": 13,
+    "district_name": "Srinagar",
+    "cspp_code": "CSPP-DISTRICT-00013"
+  },
+  {
+    "state_code": 28,
+    "district_code": 515,
+    "district_name": "Sri Potti Sriramulu Nellore",
+    "cspp_code": "CSPP-DISTRICT-00515"
+  },
+  {
+    "state_code": 28,
+    "district_code": 754,
+    "district_name": "Sri Sathya Sai",
+    "cspp_code": "CSPP-DISTRICT-00754"
+  },
+  {
+    "state_code": 24,
+    "district_code": 641,
+    "district_name": "Tapi",
+    "cspp_code": "CSPP-DISTRICT-00641"
+  },
+  {
+    "state_code": 33,
+    "district_code": 589,
+    "district_name": "Thiruvallur",
+    "cspp_code": "CSPP-DISTRICT-00589"
+  },
+  {
+    "state_code": 14,
+    "district_code": 259,
+    "district_name": "Thoubal",
+    "cspp_code": "CSPP-DISTRICT-00259"
+  },
+  {
+    "state_code": 33,
+    "district_code": 592,
+    "district_name": "Tirunelveli",
+    "cspp_code": "CSPP-DISTRICT-00592"
+  },
+  {
+    "state_code": 13,
+    "district_code": 757,
+    "district_name": "Tseminyu",
+    "cspp_code": "CSPP-DISTRICT-00757"
+  },
+  {
+    "state_code": 29,
+    "district_code": 548,
+    "district_name": "Tumakuru",
+    "cspp_code": "CSPP-DISTRICT-00548"
+  },
+  {
+    "state_code": 23,
+    "district_code": 436,
+    "district_name": "Umaria",
+    "cspp_code": "CSPP-DISTRICT-00436"
+  },
+  {
+    "state_code": 24,
+    "district_code": 461,
+    "district_name": "Vadodara",
+    "cspp_code": "CSPP-DISTRICT-00461"
+  },
+  {
+    "state_code": 10,
+    "district_code": 224,
+    "district_name": "Vaishali",
+    "cspp_code": "CSPP-DISTRICT-00224"
+  },
+  {
+    "state_code": 24,
+    "district_code": 462,
+    "district_name": "Valsad",
+    "cspp_code": "CSPP-DISTRICT-00462"
+  },
+  {
+    "state_code": 33,
+    "district_code": 596,
+    "district_name": "Viluppuram",
+    "cspp_code": "CSPP-DISTRICT-00596"
+  },
+  {
+    "state_code": 28,
+    "district_code": 520,
+    "district_name": "Visakhapatnam",
+    "cspp_code": "CSPP-DISTRICT-00520"
+  },
+  {
+    "state_code": 28,
+    "district_code": 521,
+    "district_name": "Vizianagaram",
+    "cspp_code": "CSPP-DISTRICT-00521"
+  },
+  {
+    "state_code": 7,
+    "district_code": 85,
+    "district_name": "West",
+    "cspp_code": "CSPP-DISTRICT-00085"
+  },
+  {
+    "state_code": 24,
+    "district_code": 440,
+    "district_name": "Anand",
+    "cspp_code": "CSPP-DISTRICT-00440"
+  },
+  {
+    "state_code": 28,
+    "district_code": 502,
+    "district_name": "Ananthapuramu",
+    "cspp_code": "CSPP-DISTRICT-00502"
+  },
+  {
+    "state_code": 21,
+    "district_code": 344,
+    "district_name": "Anugul",
+    "cspp_code": "CSPP-DISTRICT-00344"
+  },
+  {
+    "state_code": 23,
+    "district_code": 390,
+    "district_name": "Anuppur",
+    "cspp_code": "CSPP-DISTRICT-00390"
+  },
+  {
+    "state_code": 10,
+    "district_code": 188,
+    "district_name": "Araria",
+    "cspp_code": "CSPP-DISTRICT-00188"
+  },
+  {
+    "state_code": 33,
+    "district_code": 610,
+    "district_name": "Ariyalur",
+    "cspp_code": "CSPP-DISTRICT-00610"
+  },
+  {
+    "state_code": 23,
+    "district_code": 391,
+    "district_name": "Ashoknagar",
+    "cspp_code": "CSPP-DISTRICT-00391"
+  },
+  {
+    "state_code": 9,
+    "district_code": 124,
+    "district_name": "Baghpat",
+    "cspp_code": "CSPP-DISTRICT-00124"
+  },
+  {
+    "state_code": 23,
+    "district_code": 392,
+    "district_name": "Balaghat",
+    "cspp_code": "CSPP-DISTRICT-00392"
+  },
+  {
+    "state_code": 8,
+    "district_code": 775,
+    "district_name": "Balotra",
+    "cspp_code": "CSPP-DISTRICT-00775"
+  },
+  {
+    "state_code": 24,
+    "district_code": 441,
+    "district_name": "Banas Kantha",
+    "cspp_code": "CSPP-DISTRICT-00441"
+  },
+  {
+    "state_code": 8,
+    "district_code": 88,
+    "district_name": "Banswara",
+    "cspp_code": "CSPP-DISTRICT-00088"
+  },
+  {
+    "state_code": 8,
+    "district_code": 89,
+    "district_name": "Baran",
+    "cspp_code": "CSPP-DISTRICT-00089"
+  },
+  {
+    "state_code": 21,
+    "district_code": 347,
+    "district_name": "Bargarh",
+    "cspp_code": "CSPP-DISTRICT-00347"
+  },
+  {
+    "state_code": 9,
+    "district_code": 131,
+    "district_name": "Basti",
+    "cspp_code": "CSPP-DISTRICT-00131"
+  },
+  {
+    "state_code": 8,
+    "district_code": 774,
+    "district_name": "Beawar",
+    "cspp_code": "CSPP-DISTRICT-00774"
+  },
+  {
+    "state_code": 29,
+    "district_code": 526,
+    "district_name": "Bengaluru Rural",
+    "cspp_code": "CSPP-DISTRICT-00526"
+  },
+  {
+    "state_code": 24,
+    "district_code": 442,
+    "district_name": "Bharuch",
+    "cspp_code": "CSPP-DISTRICT-00442"
+  },
+  {
+    "state_code": 23,
+    "district_code": 396,
+    "district_name": "Bhopal",
+    "cspp_code": "CSPP-DISTRICT-00396"
+  },
+  {
+    "state_code": 21,
+    "district_code": 349,
+    "district_name": "Boudh",
+    "cspp_code": "CSPP-DISTRICT-00349"
+  },
+  {
+    "state_code": 27,
+    "district_code": 472,
+    "district_name": "Buldhana",
+    "cspp_code": "CSPP-DISTRICT-00472"
+  },
+  {
+    "state_code": 23,
+    "district_code": 397,
+    "district_name": "Burhanpur",
+    "cspp_code": "CSPP-DISTRICT-00397"
+  },
+  {
+    "state_code": 12,
+    "district_code": 229,
+    "district_name": "Changlang",
+    "cspp_code": "CSPP-DISTRICT-00229"
+  },
+  {
+    "state_code": 20,
+    "district_code": 323,
+    "district_name": "Chatra",
+    "cspp_code": "CSPP-DISTRICT-00323"
+  },
+  {
+    "state_code": 29,
+    "district_code": 532,
+    "district_name": "Chikkamagaluru",
+    "cspp_code": "CSPP-DISTRICT-00532"
+  },
+  {
+    "state_code": 29,
+    "district_code": 533,
+    "district_name": "Chitradurga",
+    "cspp_code": "CSPP-DISTRICT-00533"
+  },
+  {
+    "state_code": 8,
+    "district_code": 95,
+    "district_name": "Chittorgarh",
+    "cspp_code": "CSPP-DISTRICT-00095"
+  },
+  {
+    "state_code": 13,
+    "district_code": 758,
+    "district_name": "Chumoukedima",
+    "cspp_code": "CSPP-DISTRICT-00758"
+  },
+  {
+    "state_code": 8,
+    "district_code": 96,
+    "district_name": "Churu",
+    "cspp_code": "CSPP-DISTRICT-00096"
+  },
+  {
+    "state_code": 19,
+    "district_code": 308,
+    "district_name": "Cooch Behar",
+    "cspp_code": "CSPP-DISTRICT-00308"
+  },
+  {
+    "state_code": 38,
+    "district_code": 465,
+    "district_name": "Dadra And Nagar Haveli",
+    "cspp_code": "CSPP-DISTRICT-00465"
+  },
+  {
+    "state_code": 20,
+    "district_code": 324,
+    "district_name": "Deoghar",
+    "cspp_code": "CSPP-DISTRICT-00324"
+  },
+  {
+    "state_code": 24,
+    "district_code": 674,
+    "district_name": "Devbhumi Dwarka",
+    "cspp_code": "CSPP-DISTRICT-00674"
+  },
+  {
+    "state_code": 22,
+    "district_code": 377,
+    "district_name": "Dhamtari",
+    "cspp_code": "CSPP-DISTRICT-00377"
+  },
+  {
+    "state_code": 18,
+    "district_code": 299,
+    "district_name": "Dima Hasao",
+    "cspp_code": "CSPP-DISTRICT-00299"
+  },
+  {
+    "state_code": 20,
+    "district_code": 326,
+    "district_name": "Dumka",
+    "cspp_code": "CSPP-DISTRICT-00326"
+  },
+  {
+    "state_code": 7,
+    "district_code": 78,
+    "district_name": "East",
+    "cspp_code": "CSPP-DISTRICT-00078"
+  },
+  {
+    "state_code": 17,
+    "district_code": 740,
+    "district_name": "Eastern West Khasi Hills",
+    "cspp_code": "CSPP-DISTRICT-00740"
+  },
+  {
+    "state_code": 28,
+    "district_code": 505,
+    "district_name": "East Godavari",
+    "cspp_code": "CSPP-DISTRICT-00505"
+  },
+  {
+    "state_code": 17,
+    "district_code": 274,
+    "district_name": "East Khasi Hills",
+    "cspp_code": "CSPP-DISTRICT-00274"
+  },
+  {
+    "state_code": 20,
+    "district_code": 327,
+    "district_name": "East Singhbum",
+    "cspp_code": "CSPP-DISTRICT-00327"
+  },
+  {
+    "state_code": 27,
+    "district_code": 475,
+    "district_name": "Gadchiroli",
+    "cspp_code": "CSPP-DISTRICT-00475"
+  },
+  {
+    "state_code": 21,
+    "district_code": 353,
+    "district_name": "Gajapati",
+    "cspp_code": "CSPP-DISTRICT-00353"
+  },
+  {
+    "state_code": 1,
+    "district_code": 626,
+    "district_name": "Ganderbal",
+    "cspp_code": "CSPP-DISTRICT-00626"
+  },
+  {
+    "state_code": 22,
+    "district_code": 734,
+    "district_name": "Gaurela-Pendra-Marwahi",
+    "cspp_code": "CSPP-DISTRICT-00734"
+  },
+  {
+    "state_code": 20,
+    "district_code": 329,
+    "district_name": "Giridih",
+    "cspp_code": "CSPP-DISTRICT-00329"
+  },
+  {
+    "state_code": 24,
+    "district_code": 675,
+    "district_name": "Gir Somnath",
+    "cspp_code": "CSPP-DISTRICT-00675"
+  },
+  {
+    "state_code": 18,
+    "district_code": 287,
+    "district_name": "Goalpara",
+    "cspp_code": "CSPP-DISTRICT-00287"
+  },
+  {
+    "state_code": 27,
+    "district_code": 476,
+    "district_name": "Gondia",
+    "cspp_code": "CSPP-DISTRICT-00476"
+  },
+  {
+    "state_code": 28,
+    "district_code": 506,
+    "district_name": "Guntur",
+    "cspp_code": "CSPP-DISTRICT-00506"
+  },
+  {
+    "state_code": 18,
+    "district_code": 709,
+    "district_name": "Hojai",
+    "cspp_code": "CSPP-DISTRICT-00709"
+  },
+  {
+    "state_code": 19,
+    "district_code": 312,
+    "district_name": "Hooghly",
+    "cspp_code": "CSPP-DISTRICT-00312"
+  },
+  {
+    "state_code": 3,
+    "district_code": 33,
+    "district_name": "Hoshiarpur",
+    "cspp_code": "CSPP-DISTRICT-00033"
+  },
+  {
+    "state_code": 19,
+    "district_code": 313,
+    "district_name": "Howrah",
+    "cspp_code": "CSPP-DISTRICT-00313"
+  },
+  {
+    "state_code": 14,
+    "district_code": 256,
+    "district_name": "Imphal West",
+    "cspp_code": "CSPP-DISTRICT-00256"
+  },
+  {
+    "state_code": 23,
+    "district_code": 411,
+    "district_name": "Jabalpur",
+    "cspp_code": "CSPP-DISTRICT-00411"
+  },
+  {
+    "state_code": 3,
+    "district_code": 34,
+    "district_name": "Jalandhar",
+    "cspp_code": "CSPP-DISTRICT-00034"
+  },
+  {
+    "state_code": 27,
+    "district_code": 478,
+    "district_name": "Jalgaon",
+    "cspp_code": "CSPP-DISTRICT-00478"
+  },
+  {
+    "state_code": 1,
+    "district_code": 5,
+    "district_name": "Jammu",
+    "cspp_code": "CSPP-DISTRICT-00005"
+  },
+  {
+    "state_code": 8,
+    "district_code": 106,
+    "district_name": "Jhunjhunu",
+    "cspp_code": "CSPP-DISTRICT-00106"
+  },
+  {
+    "state_code": 36,
+    "district_code": 695,
+    "district_name": "Jogulamba Gadwal",
+    "cspp_code": "CSPP-DISTRICT-00695"
+  },
+  {
+    "state_code": 14,
+    "district_code": 711,
+    "district_name": "Kakching",
+    "cspp_code": "CSPP-DISTRICT-00711"
+  },
+  {
+    "state_code": 29,
+    "district_code": 538,
+    "district_name": "Kalaburagi",
+    "cspp_code": "CSPP-DISTRICT-00538"
+  },
+  {
+    "state_code": 14,
+    "district_code": 717,
+    "district_name": "Kamjong",
+    "cspp_code": "CSPP-DISTRICT-00717"
+  },
+  {
+    "state_code": 18,
+    "district_code": 291,
+    "district_name": "Kamrup",
+    "cspp_code": "CSPP-DISTRICT-00291"
+  },
+  {
+    "state_code": 14,
+    "district_code": 712,
+    "district_name": "Kangpokpi",
+    "cspp_code": "CSPP-DISTRICT-00712"
+  },
+  {
+    "state_code": 18,
+    "district_code": 292,
+    "district_name": "Karbi Anglong",
+    "cspp_code": "CSPP-DISTRICT-00292"
+  },
+  {
+    "state_code": 32,
+    "district_code": 558,
+    "district_name": "Kasaragod",
+    "cspp_code": "CSPP-DISTRICT-00558"
+  },
+  {
+    "state_code": 36,
+    "district_code": 509,
+    "district_name": "Khammam",
+    "cspp_code": "CSPP-DISTRICT-00509"
+  },
+  {
+    "state_code": 15,
+    "district_code": 728,
+    "district_name": "Khawzawl",
+    "cspp_code": "CSPP-DISTRICT-00728"
+  },
+  {
+    "state_code": 21,
+    "district_code": 362,
+    "district_name": "Khordha",
+    "cspp_code": "CSPP-DISTRICT-00362"
+  },
+  {
+    "state_code": 29,
+    "district_code": 541,
+    "district_name": "Kodagu",
+    "cspp_code": "CSPP-DISTRICT-00541"
+  },
+  {
+    "state_code": 21,
+    "district_code": 363,
+    "district_name": "Koraput",
+    "cspp_code": "CSPP-DISTRICT-00363"
+  },
+  {
+    "state_code": 22,
+    "district_code": 383,
+    "district_name": "Korba",
+    "cspp_code": "CSPP-DISTRICT-00383"
+  },
+  {
+    "state_code": 22,
+    "district_code": 384,
+    "district_name": "Korea",
+    "cspp_code": "CSPP-DISTRICT-00384"
+  },
+  {
+    "state_code": 12,
+    "district_code": 677,
+    "district_name": "Kra Daadi",
+    "cspp_code": "CSPP-DISTRICT-00677"
+  },
+  {
+    "state_code": 33,
+    "district_code": 577,
+    "district_name": "Krishnagiri",
+    "cspp_code": "CSPP-DISTRICT-00577"
+  },
+  {
+    "state_code": 6,
+    "district_code": 68,
+    "district_name": "Kurukshetra",
+    "cspp_code": "CSPP-DISTRICT-00068"
+  },
+  {
+    "state_code": 2,
+    "district_code": 21,
+    "district_name": "Lahaul And Spiti",
+    "cspp_code": "CSPP-DISTRICT-00021"
+  },
+  {
+    "state_code": 18,
+    "district_code": 295,
+    "district_name": "Lakhimpur",
+    "cspp_code": "CSPP-DISTRICT-00295"
+  },
+  {
+    "state_code": 12,
+    "district_code": 724,
+    "district_name": "Leparada",
+    "cspp_code": "CSPP-DISTRICT-00724"
+  },
+  {
+    "state_code": 12,
+    "district_code": 666,
+    "district_name": "Longding",
+    "cspp_code": "CSPP-DISTRICT-00666"
+  },
+  {
+    "state_code": 12,
+    "district_code": 236,
+    "district_name": "Lower Subansiri",
+    "cspp_code": "CSPP-DISTRICT-00236"
+  },
+  {
+    "state_code": 3,
+    "district_code": 36,
+    "district_name": "Ludhiana",
+    "cspp_code": "CSPP-DISTRICT-00036"
+  },
+  {
+    "state_code": 36,
+    "district_code": 512,
+    "district_name": "Mahabubnagar",
+    "cspp_code": "CSPP-DISTRICT-00512"
+  },
+  {
+    "state_code": 22,
+    "district_code": 385,
+    "district_name": "Mahasamund",
+    "cspp_code": "CSPP-DISTRICT-00385"
+  },
+  {
+    "state_code": 34,
+    "district_code": 599,
+    "district_name": "Mahe",
+    "cspp_code": "CSPP-DISTRICT-00599"
+  },
+  {
+    "state_code": 23,
+    "district_code": 416,
+    "district_name": "Mandsaur",
+    "cspp_code": "CSPP-DISTRICT-00416"
+  },
+  {
+    "state_code": 29,
+    "district_code": 544,
+    "district_name": "Mandya",
+    "cspp_code": "CSPP-DISTRICT-00544"
+  },
+  {
+    "state_code": 23,
+    "district_code": 766,
+    "district_name": "MAUGANJ",
+    "cspp_code": "CSPP-DISTRICT-00766"
+  },
+  {
+    "state_code": 22,
+    "district_code": 761,
+    "district_name": "Mohla-Manpur-Ambagarh Chouki",
+    "cspp_code": "CSPP-DISTRICT-00761"
+  },
+  {
+    "state_code": 18,
+    "district_code": 297,
+    "district_name": "Nagaon",
+    "cspp_code": "CSPP-DISTRICT-00297"
+  },
+  {
+    "state_code": 18,
+    "district_code": 298,
+    "district_name": "Nalbari",
+    "cspp_code": "CSPP-DISTRICT-00298"
+  },
+  {
+    "state_code": 33,
+    "district_code": 580,
+    "district_name": "Namakkal",
+    "cspp_code": "CSPP-DISTRICT-00580"
+  },
+  {
+    "state_code": 12,
+    "district_code": 678,
+    "district_name": "Namsai",
+    "cspp_code": "CSPP-DISTRICT-00678"
+  },
+  {
+    "state_code": 28,
+    "district_code": 755,
+    "district_name": "Nandyal",
+    "cspp_code": "CSPP-DISTRICT-00755"
+  },
+  {
+    "state_code": 8,
+    "district_code": 773,
+    "district_name": "Neem Ka Thana",
+    "cspp_code": "CSPP-DISTRICT-00773"
+  },
+  {
+    "state_code": 7,
+    "district_code": 79,
+    "district_name": "New Delhi",
+    "cspp_code": "CSPP-DISTRICT-00079"
+  },
+  {
+    "state_code": 21,
+    "district_code": 368,
+    "district_name": "Nuapada",
+    "cspp_code": "CSPP-DISTRICT-00368"
+  },
+  {
+    "state_code": 24,
+    "district_code": 454,
+    "district_name": "Panch Mahals",
+    "cspp_code": "CSPP-DISTRICT-00454"
+  },
+  {
+    "state_code": 10,
+    "district_code": 211,
+    "district_name": "Pashchim Champaran",
+    "cspp_code": "CSPP-DISTRICT-00211"
+  },
+  {
+    "state_code": 24,
+    "district_code": 455,
+    "district_name": "Patan",
+    "cspp_code": "CSPP-DISTRICT-00455"
+  },
+  {
+    "state_code": 33,
+    "district_code": 581,
+    "district_name": "Perambalur",
+    "cspp_code": "CSPP-DISTRICT-00581"
+  },
+  {
+    "state_code": 13,
+    "district_code": 613,
+    "district_name": "Peren",
+    "cspp_code": "CSPP-DISTRICT-00613"
+  },
+  {
+    "state_code": 13,
+    "district_code": 248,
+    "district_name": "Phek",
+    "cspp_code": "CSPP-DISTRICT-00248"
+  },
+  {
+    "state_code": 14,
+    "district_code": 715,
+    "district_name": "Pherzawl",
+    "cspp_code": "CSPP-DISTRICT-00715"
+  },
+  {
+    "state_code": 28,
+    "district_code": 517,
+    "district_name": "Prakasam",
+    "cspp_code": "CSPP-DISTRICT-00517"
+  },
+  {
+    "state_code": 8,
+    "district_code": 629,
+    "district_name": "Pratapgarh",
+    "cspp_code": "CSPP-DISTRICT-00629"
+  },
+  {
+    "state_code": 33,
+    "district_code": 582,
+    "district_name": "Pudukkottai",
+    "cspp_code": "CSPP-DISTRICT-00582"
+  },
+  {
+    "state_code": 19,
+    "district_code": 317,
+    "district_name": "Purba Medinipur",
+    "cspp_code": "CSPP-DISTRICT-00317"
+  },
+  {
+    "state_code": 10,
+    "district_code": 214,
+    "district_name": "Purnia",
+    "cspp_code": "CSPP-DISTRICT-00214"
+  },
+  {
+    "state_code": 19,
+    "district_code": 321,
+    "district_name": "Purulia",
+    "cspp_code": "CSPP-DISTRICT-00321"
+  },
+  {
+    "state_code": 22,
+    "district_code": 388,
+    "district_name": "Rajnandgaon",
+    "cspp_code": "CSPP-DISTRICT-00388"
+  },
+  {
+    "state_code": 8,
+    "district_code": 112,
+    "district_name": "Rajsamand",
+    "cspp_code": "CSPP-DISTRICT-00112"
+  },
+  {
+    "state_code": 33,
+    "district_code": 583,
+    "district_name": "Ramanathapuram",
+    "cspp_code": "CSPP-DISTRICT-00583"
+  },
+  {
+    "state_code": 20,
+    "district_code": 339,
+    "district_name": "Ranchi",
+    "cspp_code": "CSPP-DISTRICT-00339"
+  },
+  {
+    "state_code": 27,
+    "district_code": 492,
+    "district_name": "Ratnagiri",
+    "cspp_code": "CSPP-DISTRICT-00492"
+  },
+  {
+    "state_code": 21,
+    "district_code": 370,
+    "district_name": "Rayagada",
+    "cspp_code": "CSPP-DISTRICT-00370"
+  },
+  {
+    "state_code": 10,
+    "district_code": 216,
+    "district_name": "Saharsa",
+    "cspp_code": "CSPP-DISTRICT-00216"
+  },
+  {
+    "state_code": 20,
+    "district_code": 340,
+    "district_name": "Sahebganj",
+    "cspp_code": "CSPP-DISTRICT-00340"
+  },
+  {
+    "state_code": 22,
+    "district_code": 762,
+    "district_name": "Sakti",
+    "cspp_code": "CSPP-DISTRICT-00762"
+  },
+  {
+    "state_code": 9,
+    "district_code": 178,
+    "district_name": "Sant Kabir Nagar",
+    "cspp_code": "CSPP-DISTRICT-00178"
+  },
+  {
+    "state_code": 20,
+    "district_code": 341,
+    "district_name": "Saraikela Kharsawan",
+    "cspp_code": "CSPP-DISTRICT-00341"
+  },
+  {
+    "state_code": 8,
+    "district_code": 113,
+    "district_name": "Sawai Madhopur",
+    "cspp_code": "CSPP-DISTRICT-00113"
+  },
+  {
+    "state_code": 16,
+    "district_code": 653,
+    "district_name": "Sepahijala",
+    "cspp_code": "CSPP-DISTRICT-00653"
+  },
+  {
+    "state_code": 15,
+    "district_code": 268,
+    "district_name": "Serchhip",
+    "cspp_code": "CSPP-DISTRICT-00268"
+  },
+  {
+    "state_code": 23,
+    "district_code": 429,
+    "district_name": "Shahdol",
+    "cspp_code": "CSPP-DISTRICT-00429"
+  },
+  {
+    "state_code": 10,
+    "district_code": 220,
+    "district_name": "Sheohar",
+    "cspp_code": "CSPP-DISTRICT-00220"
+  },
+  {
+    "state_code": 9,
+    "district_code": 181,
+    "district_name": "Shrawasti",
+    "cspp_code": "CSPP-DISTRICT-00181"
+  },
+  {
+    "state_code": 20,
+    "district_code": 342,
+    "district_name": "Simdega",
+    "cspp_code": "CSPP-DISTRICT-00342"
+  },
+  {
+    "state_code": 10,
+    "district_code": 222,
+    "district_name": "Siwan",
+    "cspp_code": "CSPP-DISTRICT-00222"
+  },
+  {
+    "state_code": 2,
+    "district_code": 25,
+    "district_name": "Solan",
+    "cspp_code": "CSPP-DISTRICT-00025"
+  },
+  {
+    "state_code": 7,
+    "district_code": 670,
+    "district_name": "South East",
+    "cspp_code": "CSPP-DISTRICT-00670"
+  },
+  {
+    "state_code": 7,
+    "district_code": 84,
+    "district_name": "South West",
+    "cspp_code": "CSPP-DISTRICT-00084"
+  },
+  {
+    "state_code": 22,
+    "district_code": 648,
+    "district_name": "Surajpur",
+    "cspp_code": "CSPP-DISTRICT-00648"
+  },
+  {
+    "state_code": 22,
+    "district_code": 389,
+    "district_name": "Surguja",
+    "cspp_code": "CSPP-DISTRICT-00389"
+  },
+  {
+    "state_code": 14,
+    "district_code": 258,
+    "district_name": "Tamenglong",
+    "cspp_code": "CSPP-DISTRICT-00258"
+  },
+  {
+    "state_code": 3,
+    "district_code": 609,
+    "district_name": "Tarn Taran",
+    "cspp_code": "CSPP-DISTRICT-00609"
+  },
+  {
+    "state_code": 12,
+    "district_code": 238,
+    "district_name": "Tawang",
+    "cspp_code": "CSPP-DISTRICT-00238"
+  },
+  {
+    "state_code": 33,
+    "district_code": 733,
+    "district_name": "Tenkasi",
+    "cspp_code": "CSPP-DISTRICT-00733"
+  },
+  {
+    "state_code": 33,
+    "district_code": 586,
+    "district_name": "Thanjavur",
+    "cspp_code": "CSPP-DISTRICT-00586"
+  },
+  {
+    "state_code": 33,
+    "district_code": 587,
+    "district_name": "The Nilgiris",
+    "cspp_code": "CSPP-DISTRICT-00587"
+  },
+  {
+    "state_code": 18,
+    "district_code": 302,
+    "district_name": "Tinsukia",
+    "cspp_code": "CSPP-DISTRICT-00302"
+  },
+  {
+    "state_code": 12,
+    "district_code": 239,
+    "district_name": "Tirap",
+    "cspp_code": "CSPP-DISTRICT-00239"
+  },
+  {
+    "state_code": 33,
+    "district_code": 732,
+    "district_name": "Tirupathur",
+    "cspp_code": "CSPP-DISTRICT-00732"
+  },
+  {
+    "state_code": 8,
+    "district_code": 116,
+    "district_name": "Tonk",
+    "cspp_code": "CSPP-DISTRICT-00116"
+  },
+  {
+    "state_code": 29,
+    "district_code": 549,
+    "district_name": "Udupi",
+    "cspp_code": "CSPP-DISTRICT-00549"
+  },
+  {
+    "state_code": 14,
+    "district_code": 260,
+    "district_name": "Ukhrul",
+    "cspp_code": "CSPP-DISTRICT-00260"
+  },
+  {
+    "state_code": 2,
+    "district_code": 26,
+    "district_name": "Una",
+    "cspp_code": "CSPP-DISTRICT-00026"
+  },
+  {
+    "state_code": 22,
+    "district_code": 381,
+    "district_name": "Uttar Bastar Kanker",
+    "cspp_code": "CSPP-DISTRICT-00381"
+  },
+  {
+    "state_code": 23,
+    "district_code": 437,
+    "district_name": "Vidisha",
+    "cspp_code": "CSPP-DISTRICT-00437"
+  },
+  {
+    "state_code": 29,
+    "district_code": 738,
+    "district_name": "Vijayanagar",
+    "cspp_code": "CSPP-DISTRICT-00738"
+  },
+  {
+    "state_code": 29,
+    "district_code": 530,
+    "district_name": "Vijayapura",
+    "cspp_code": "CSPP-DISTRICT-00530"
+  },
+  {
+    "state_code": 36,
+    "district_code": 698,
+    "district_name": "Vikarabad",
+    "cspp_code": "CSPP-DISTRICT-00698"
+  },
+  {
+    "state_code": 27,
+    "district_code": 499,
+    "district_name": "Washim",
+    "cspp_code": "CSPP-DISTRICT-00499"
+  },
+  {
+    "state_code": 18,
+    "district_code": 710,
+    "district_name": "West Karbi Anglong",
+    "cspp_code": "CSPP-DISTRICT-00710"
+  },
+  {
+    "state_code": 13,
+    "district_code": 250,
+    "district_name": "Wokha",
+    "cspp_code": "CSPP-DISTRICT-00250"
+  },
+  {
+    "state_code": 36,
+    "district_code": 501,
+    "district_name": "Adilabad",
+    "cspp_code": "CSPP-DISTRICT-00501"
+  },
+  {
+    "state_code": 24,
+    "district_code": 438,
+    "district_name": "Ahmedabad",
+    "cspp_code": "CSPP-DISTRICT-00438"
+  },
+  {
+    "state_code": 15,
+    "district_code": 261,
+    "district_name": "Aizawl",
+    "cspp_code": "CSPP-DISTRICT-00261"
+  },
+  {
+    "state_code": 27,
+    "district_code": 467,
+    "district_name": "Akola",
+    "cspp_code": "CSPP-DISTRICT-00467"
+  },
+  {
+    "state_code": 9,
+    "district_code": 119,
+    "district_name": "Aligarh",
+    "cspp_code": "CSPP-DISTRICT-00119"
+  },
+  {
+    "state_code": 23,
+    "district_code": 639,
+    "district_name": "Alirajpur",
+    "cspp_code": "CSPP-DISTRICT-00639"
+  },
+  {
+    "state_code": 8,
+    "district_code": 87,
+    "district_name": "Alwar",
+    "cspp_code": "CSPP-DISTRICT-00087"
+  },
+  {
+    "state_code": 9,
+    "district_code": 640,
+    "district_name": "Amethi",
+    "cspp_code": "CSPP-DISTRICT-00640"
+  },
+  {
+    "state_code": 9,
+    "district_code": 123,
+    "district_name": "Azamgarh",
+    "cspp_code": "CSPP-DISTRICT-00123"
+  },
+  {
+    "state_code": 29,
+    "district_code": 524,
+    "district_name": "Bagalkote",
+    "cspp_code": "CSPP-DISTRICT-00524"
+  },
+  {
+    "state_code": 5,
+    "district_code": 46,
+    "district_name": "Bageshwar",
+    "cspp_code": "CSPP-DISTRICT-00046"
+  },
+  {
+    "state_code": 29,
+    "district_code": 528,
+    "district_name": "Ballari",
+    "cspp_code": "CSPP-DISTRICT-00528"
+  },
+  {
+    "state_code": 28,
+    "district_code": 750,
+    "district_name": "Bapatla",
+    "cspp_code": "CSPP-DISTRICT-00750"
+  },
+  {
+    "state_code": 8,
+    "district_code": 90,
+    "district_name": "Barmer",
+    "cspp_code": "CSPP-DISTRICT-00090"
+  },
+  {
+    "state_code": 3,
+    "district_code": 605,
+    "district_name": "Barnala",
+    "cspp_code": "CSPP-DISTRICT-00605"
+  },
+  {
+    "state_code": 18,
+    "district_code": 280,
+    "district_name": "Barpeta",
+    "cspp_code": "CSPP-DISTRICT-00280"
+  },
+  {
+    "state_code": 22,
+    "district_code": 374,
+    "district_name": "Bastar",
+    "cspp_code": "CSPP-DISTRICT-00374"
+  },
+  {
+    "state_code": 23,
+    "district_code": 394,
+    "district_name": "Betul",
+    "cspp_code": "CSPP-DISTRICT-00394"
+  },
+  {
+    "state_code": 21,
+    "district_code": 348,
+    "district_name": "Bhadrak",
+    "cspp_code": "CSPP-DISTRICT-00348"
+  },
+  {
+    "state_code": 24,
+    "district_code": 443,
+    "district_name": "Bhavnagar",
+    "cspp_code": "CSPP-DISTRICT-00443"
+  },
+  {
+    "state_code": 8,
+    "district_code": 92,
+    "district_name": "Bhilwara",
+    "cspp_code": "CSPP-DISTRICT-00092"
+  },
+  {
+    "state_code": 6,
+    "district_code": 59,
+    "district_name": "Bhiwani",
+    "cspp_code": "CSPP-DISTRICT-00059"
+  },
+  {
+    "state_code": 29,
+    "district_code": 529,
+    "district_name": "Bidar",
+    "cspp_code": "CSPP-DISTRICT-00529"
+  },
+  {
+    "state_code": 9,
+    "district_code": 132,
+    "district_name": "Bijnor",
+    "cspp_code": "CSPP-DISTRICT-00132"
+  },
+  {
+    "state_code": 2,
+    "district_code": 15,
+    "district_name": "Bilaspur",
+    "cspp_code": "CSPP-DISTRICT-00015"
+  },
+  {
+    "state_code": 20,
+    "district_code": 322,
+    "district_name": "Bokaro",
+    "cspp_code": "CSPP-DISTRICT-00322"
+  },
+  {
+    "state_code": 18,
+    "district_code": 281,
+    "district_name": "Bongaigaon",
+    "cspp_code": "CSPP-DISTRICT-00281"
+  },
+  {
+    "state_code": 1,
+    "district_code": 2,
+    "district_name": "Budgam",
+    "cspp_code": "CSPP-DISTRICT-00002"
+  },
+  {
+    "state_code": 10,
+    "district_code": 194,
+    "district_name": "Buxar",
+    "cspp_code": "CSPP-DISTRICT-00194"
+  },
+  {
+    "state_code": 7,
+    "district_code": 77,
+    "district_name": "Central",
+    "cspp_code": "CSPP-DISTRICT-00077"
+  },
+  {
+    "state_code": 2,
+    "district_code": 16,
+    "district_name": "Chamba",
+    "cspp_code": "CSPP-DISTRICT-00016"
+  },
+  {
+    "state_code": 15,
+    "district_code": 262,
+    "district_name": "Champhai",
+    "cspp_code": "CSPP-DISTRICT-00262"
+  },
+  {
+    "state_code": 4,
+    "district_code": 44,
+    "district_name": "Chandigarh",
+    "cspp_code": "CSPP-DISTRICT-00044"
+  },
+  {
+    "state_code": 33,
+    "district_code": 730,
+    "district_name": "Chengalpattu",
+    "cspp_code": "CSPP-DISTRICT-00730"
+  },
+  {
+    "state_code": 27,
+    "district_code": 469,
+    "district_name": "Chhatrapati Sambhajinagar",
+    "cspp_code": "CSPP-DISTRICT-00469"
+  },
+  {
+    "state_code": 23,
+    "district_code": 399,
+    "district_name": "Chhindwara",
+    "cspp_code": "CSPP-DISTRICT-00399"
+  },
+  {
+    "state_code": 9,
+    "district_code": 136,
+    "district_name": "Chitrakoot",
+    "cspp_code": "CSPP-DISTRICT-00136"
+  },
+  {
+    "state_code": 14,
+    "district_code": 254,
+    "district_name": "Churachandpur",
+    "cspp_code": "CSPP-DISTRICT-00254"
+  },
+  {
+    "state_code": 33,
+    "district_code": 570,
+    "district_name": "Cuddalore",
+    "cspp_code": "CSPP-DISTRICT-00570"
+  },
+  {
+    "state_code": 21,
+    "district_code": 350,
+    "district_name": "Cuttack",
+    "cspp_code": "CSPP-DISTRICT-00350"
+  },
+  {
+    "state_code": 29,
+    "district_code": 534,
+    "district_name": "Dakshina Kannada",
+    "cspp_code": "CSPP-DISTRICT-00534"
+  },
+  {
+    "state_code": 38,
+    "district_code": 463,
+    "district_name": "Daman",
+    "cspp_code": "CSPP-DISTRICT-00463"
+  },
+  {
+    "state_code": 10,
+    "district_code": 195,
+    "district_name": "Darbhanga",
+    "cspp_code": "CSPP-DISTRICT-00195"
+  },
+  {
+    "state_code": 8,
+    "district_code": 97,
+    "district_name": "Dausa",
+    "cspp_code": "CSPP-DISTRICT-00097"
+  },
+  {
+    "state_code": 8,
+    "district_code": 767,
+    "district_name": "Deeg",
+    "cspp_code": "CSPP-DISTRICT-00767"
+  },
+  {
+    "state_code": 9,
+    "district_code": 137,
+    "district_name": "Deoria",
+    "cspp_code": "CSPP-DISTRICT-00137"
+  },
+  {
+    "state_code": 23,
+    "district_code": 402,
+    "district_name": "Dewas",
+    "cspp_code": "CSPP-DISTRICT-00402"
+  },
+  {
+    "state_code": 23,
+    "district_code": 403,
+    "district_name": "Dhar",
+    "cspp_code": "CSPP-DISTRICT-00403"
+  },
+  {
+    "state_code": 27,
+    "district_code": 488,
+    "district_name": "Dharashiv",
+    "cspp_code": "CSPP-DISTRICT-00488"
+  },
+  {
+    "state_code": 27,
+    "district_code": 474,
+    "district_name": "Dhule",
+    "cspp_code": "CSPP-DISTRICT-00474"
+  },
+  {
+    "state_code": 28,
+    "district_code": 747,
+    "district_name": "Dr. B.R. Ambedkar Konaseema",
+    "cspp_code": "CSPP-DISTRICT-00747"
+  },
+  {
+    "state_code": 12,
+    "district_code": 231,
+    "district_name": "East Kameng",
+    "cspp_code": "CSPP-DISTRICT-00231"
+  },
+  {
+    "state_code": 9,
+    "district_code": 139,
+    "district_name": "Etawah",
+    "cspp_code": "CSPP-DISTRICT-00139"
+  },
+  {
+    "state_code": 6,
+    "district_code": 60,
+    "district_name": "Faridabad",
+    "cspp_code": "CSPP-DISTRICT-00060"
+  },
+  {
+    "state_code": 9,
+    "district_code": 143,
+    "district_name": "Firozabad",
+    "cspp_code": "CSPP-DISTRICT-00143"
+  },
+  {
+    "state_code": 8,
+    "district_code": 100,
+    "district_name": "Ganganagar",
+    "cspp_code": "CSPP-DISTRICT-00100"
+  },
+  {
+    "state_code": 18,
+    "district_code": 288,
+    "district_name": "Golaghat",
+    "cspp_code": "CSPP-DISTRICT-00288"
+  },
+  {
+    "state_code": 9,
+    "district_code": 148,
+    "district_name": "Gorakhpur",
+    "cspp_code": "CSPP-DISTRICT-00148"
+  },
+  {
+    "state_code": 23,
+    "district_code": 406,
+    "district_name": "Guna",
+    "cspp_code": "CSPP-DISTRICT-00406"
+  },
+  {
+    "state_code": 11,
+    "district_code": 228,
+    "district_name": "Gyalshing",
+    "cspp_code": "CSPP-DISTRICT-00228"
+  },
+  {
+    "state_code": 9,
+    "district_code": 149,
+    "district_name": "Hamirpur",
+    "cspp_code": "CSPP-DISTRICT-00149"
+  },
+  {
+    "state_code": 32,
+    "district_code": 556,
+    "district_name": "Idukki",
+    "cspp_code": "CSPP-DISTRICT-00556"
+  },
+  {
+    "state_code": 14,
+    "district_code": 255,
+    "district_name": "Imphal East",
+    "cspp_code": "CSPP-DISTRICT-00255"
+  },
+  {
+    "state_code": 23,
+    "district_code": 410,
+    "district_name": "Indore",
+    "cspp_code": "CSPP-DISTRICT-00410"
+  },
+  {
+    "state_code": 8,
+    "district_code": 783,
+    "district_name": "Jaipur (Gramin)",
+    "cspp_code": "CSPP-DISTRICT-00783"
+  },
+  {
+    "state_code": 8,
+    "district_code": 103,
+    "district_name": "Jaisalmer",
+    "cspp_code": "CSPP-DISTRICT-00103"
+  },
+  {
+    "state_code": 36,
+    "district_code": 689,
+    "district_name": "Jangoan",
+    "cspp_code": "CSPP-DISTRICT-00689"
+  },
+  {
+    "state_code": 9,
+    "district_code": 152,
+    "district_name": "Jaunpur",
+    "cspp_code": "CSPP-DISTRICT-00152"
+  },
+  {
+    "state_code": 6,
+    "district_code": 64,
+    "district_name": "Jhajjar",
+    "cspp_code": "CSPP-DISTRICT-00064"
+  },
+  {
+    "state_code": 24,
+    "district_code": 448,
+    "district_name": "Junagadh",
+    "cspp_code": "CSPP-DISTRICT-00448"
+  },
+  {
+    "state_code": 6,
+    "district_code": 66,
+    "district_name": "Kaithal",
+    "cspp_code": "CSPP-DISTRICT-00066"
+  },
+  {
+    "state_code": 12,
+    "district_code": 718,
+    "district_name": "Kamle",
+    "cspp_code": "CSPP-DISTRICT-00718"
+  },
+  {
+    "state_code": 33,
+    "district_code": 575,
+    "district_name": "Kanniyakumari",
+    "cspp_code": "CSPP-DISTRICT-00575"
+  },
+  {
+    "state_code": 34,
+    "district_code": 598,
+    "district_name": "Karaikal",
+    "cspp_code": "CSPP-DISTRICT-00598"
+  },
+  {
+    "state_code": 18,
+    "district_code": 293,
+    "district_name": "Karimganj",
+    "cspp_code": "CSPP-DISTRICT-00293"
+  },
+  {
+    "state_code": 9,
+    "district_code": 158,
+    "district_name": "Kaushambi",
+    "cspp_code": "CSPP-DISTRICT-00158"
+  },
+  {
+    "state_code": 8,
+    "district_code": 781,
+    "district_name": "Kekri",
+    "cspp_code": "CSPP-DISTRICT-00781"
+  },
+  {
+    "state_code": 21,
+    "district_code": 361,
+    "district_name": "Kendujhar",
+    "cspp_code": "CSPP-DISTRICT-00361"
+  },
+  {
+    "state_code": 22,
+    "district_code": 759,
+    "district_name": "Khairagarh-Chhuikhadan-Gandai",
+    "cspp_code": "CSPP-DISTRICT-00759"
+  },
+  {
+    "state_code": 13,
+    "district_code": 245,
+    "district_name": "Kohima",
+    "cspp_code": "CSPP-DISTRICT-00245"
+  },
+  {
+    "state_code": 18,
+    "district_code": 294,
+    "district_name": "Kokrajhar",
+    "cspp_code": "CSPP-DISTRICT-00294"
+  },
+  {
+    "state_code": 27,
+    "district_code": 480,
+    "district_name": "Kolhapur",
+    "cspp_code": "CSPP-DISTRICT-00480"
+  },
+  {
+    "state_code": 22,
+    "district_code": 643,
+    "district_name": "Kondagaon",
+    "cspp_code": "CSPP-DISTRICT-00643"
+  },
+  {
+    "state_code": 2,
+    "district_code": 20,
+    "district_name": "Kullu",
+    "cspp_code": "CSPP-DISTRICT-00020"
+  },
+  {
+    "state_code": 12,
+    "district_code": 233,
+    "district_name": "Kurung Kumey",
+    "cspp_code": "CSPP-DISTRICT-00233"
+  },
+  {
+    "state_code": 37,
+    "district_code": 9,
+    "district_name": "Leh Ladakh",
+    "cspp_code": "CSPP-DISTRICT-00009"
+  },
+  {
+    "state_code": 9,
+    "district_code": 162,
+    "district_name": "Lucknow",
+    "cspp_code": "CSPP-DISTRICT-00162"
+  },
+  {
+    "state_code": 10,
+    "district_code": 205,
+    "district_name": "Madhepura",
+    "cspp_code": "CSPP-DISTRICT-00205"
+  },
+  {
+    "state_code": 3,
+    "district_code": 737,
+    "district_name": "Malerkotla",
+    "cspp_code": "CSPP-DISTRICT-00737"
+  },
+  {
+    "state_code": 11,
+    "district_code": 226,
+    "district_name": "Mangan",
+    "cspp_code": "CSPP-DISTRICT-00226"
+  },
+  {
+    "state_code": 3,
+    "district_code": 37,
+    "district_name": "Mansa",
+    "cspp_code": "CSPP-DISTRICT-00037"
+  },
+  {
+    "state_code": 18,
+    "district_code": 296,
+    "district_name": "Marigaon",
+    "cspp_code": "CSPP-DISTRICT-00296"
+  },
+  {
+    "state_code": 9,
+    "district_code": 167,
+    "district_name": "Mathura",
+    "cspp_code": "CSPP-DISTRICT-00167"
+  },
+  {
+    "state_code": 9,
+    "district_code": 169,
+    "district_name": "Meerut",
+    "cspp_code": "CSPP-DISTRICT-00169"
+  },
+  {
+    "state_code": 3,
+    "district_code": 38,
+    "district_name": "Moga",
+    "cspp_code": "CSPP-DISTRICT-00038"
+  },
+  {
+    "state_code": 22,
+    "district_code": 647,
+    "district_name": "Mungeli",
+    "cspp_code": "CSPP-DISTRICT-00647"
+  },
+  {
+    "state_code": 9,
+    "district_code": 172,
+    "district_name": "Muzaffarnagar",
+    "cspp_code": "CSPP-DISTRICT-00172"
+  },
+  {
+    "state_code": 10,
+    "district_code": 208,
+    "district_name": "Muzaffarpur",
+    "cspp_code": "CSPP-DISTRICT-00208"
+  },
+  {
+    "state_code": 8,
+    "district_code": 110,
+    "district_name": "Nagaur",
+    "cspp_code": "CSPP-DISTRICT-00110"
+  },
+  {
+    "state_code": 11,
+    "district_code": 227,
+    "district_name": "Namchi",
+    "cspp_code": "CSPP-DISTRICT-00227"
+  },
+  {
+    "state_code": 22,
+    "district_code": 637,
+    "district_name": "Narayanpur",
+    "cspp_code": "CSPP-DISTRICT-00637"
+  },
+  {
+    "state_code": 24,
+    "district_code": 452,
+    "district_name": "Narmada",
+    "cspp_code": "CSPP-DISTRICT-00452"
+  },
+  {
+    "state_code": 21,
+    "district_code": 367,
+    "district_name": "Nayagarh",
+    "cspp_code": "CSPP-DISTRICT-00367"
+  },
+  {
+    "state_code": 13,
+    "district_code": 764,
+    "district_name": "Niuland",
+    "cspp_code": "CSPP-DISTRICT-00764"
+  },
+  {
+    "state_code": 19,
+    "district_code": 303,
+    "district_name": "North 24 Parganas",
+    "cspp_code": "CSPP-DISTRICT-00303"
+  },
+  {
+    "state_code": 35,
+    "district_code": 632,
+    "district_name": "North And Middle Andaman",
+    "cspp_code": "CSPP-DISTRICT-00632"
+  },
+  {
+    "state_code": 17,
+    "district_code": 656,
+    "district_name": "North Garo Hills",
+    "cspp_code": "CSPP-DISTRICT-00656"
+  },
+  {
+    "state_code": 6,
+    "district_code": 604,
+    "district_name": "Nuh",
+    "cspp_code": "CSPP-DISTRICT-00604"
+  },
+  {
+    "state_code": 11,
+    "district_code": 741,
+    "district_name": "Pakyong",
+    "cspp_code": "CSPP-DISTRICT-00741"
+  },
+  {
+    "state_code": 8,
+    "district_code": 111,
+    "district_name": "Pali",
+    "cspp_code": "CSPP-DISTRICT-00111"
+  },
+  {
+    "state_code": 28,
+    "district_code": 751,
+    "district_name": "Palnadu",
+    "cspp_code": "CSPP-DISTRICT-00751"
+  },
+  {
+    "state_code": 6,
+    "district_code": 619,
+    "district_name": "Palwal",
+    "cspp_code": "CSPP-DISTRICT-00619"
+  },
+  {
+    "state_code": 23,
+    "district_code": 420,
+    "district_name": "Panna",
+    "cspp_code": "CSPP-DISTRICT-00420"
+  },
+  {
+    "state_code": 5,
+    "district_code": 52,
+    "district_name": "Pauri Garhwal",
+    "cspp_code": "CSPP-DISTRICT-00052"
+  },
+  {
+    "state_code": 8,
+    "district_code": 772,
+    "district_name": "Phalodi",
+    "cspp_code": "CSPP-DISTRICT-00772"
+  },
+  {
+    "state_code": 9,
+    "district_code": 173,
+    "district_name": "Pilibhit",
+    "cspp_code": "CSPP-DISTRICT-00173"
+  },
+  {
+    "state_code": 19,
+    "district_code": 306,
+    "district_name": "Purba Bardhaman",
+    "cspp_code": "CSPP-DISTRICT-00306"
+  },
+  {
+    "state_code": 24,
+    "district_code": 457,
+    "district_name": "Rajkot",
+    "cspp_code": "CSPP-DISTRICT-00457"
+  },
+  {
+    "state_code": 29,
+    "district_code": 631,
+    "district_name": "Ramanagara",
+    "cspp_code": "CSPP-DISTRICT-00631"
+  },
+  {
+    "state_code": 20,
+    "district_code": 607,
+    "district_name": "Ramgarh",
+    "cspp_code": "CSPP-DISTRICT-00607"
+  },
+  {
+    "state_code": 9,
+    "district_code": 176,
+    "district_name": "Rampur",
+    "cspp_code": "CSPP-DISTRICT-00176"
+  },
+  {
+    "state_code": 33,
+    "district_code": 731,
+    "district_name": "Ranipet",
+    "cspp_code": "CSPP-DISTRICT-00731"
+  },
+  {
+    "state_code": 23,
+    "district_code": 424,
+    "district_name": "Rewa",
+    "cspp_code": "CSPP-DISTRICT-00424"
+  },
+  {
+    "state_code": 10,
+    "district_code": 215,
+    "district_name": "Rohtas",
+    "cspp_code": "CSPP-DISTRICT-00215"
+  },
+  {
+    "state_code": 3,
+    "district_code": 42,
+    "district_name": "Rupnagar",
+    "cspp_code": "CSPP-DISTRICT-00042"
+  },
+  {
+    "state_code": 8,
+    "district_code": 779,
+    "district_name": "Sanchore",
+    "cspp_code": "CSPP-DISTRICT-00779"
+  },
+  {
+    "state_code": 27,
+    "district_code": 494,
+    "district_name": "Satara",
+    "cspp_code": "CSPP-DISTRICT-00494"
+  },
+  {
+    "state_code": 23,
+    "district_code": 428,
+    "district_name": "Seoni",
+    "cspp_code": "CSPP-DISTRICT-00428"
+  },
+  {
+    "state_code": 9,
+    "district_code": 180,
+    "district_name": "Shahjahanpur",
+    "cspp_code": "CSPP-DISTRICT-00180"
+  },
+  {
+    "state_code": 23,
+    "district_code": 430,
+    "district_name": "Shajapur",
+    "cspp_code": "CSPP-DISTRICT-00430"
+  },
+  {
+    "state_code": 23,
+    "district_code": 431,
+    "district_name": "Sheopur",
+    "cspp_code": "CSPP-DISTRICT-00431"
+  },
+  {
+    "state_code": 23,
+    "district_code": 432,
+    "district_name": "Shivpuri",
+    "cspp_code": "CSPP-DISTRICT-00432"
+  },
+  {
+    "state_code": 1,
+    "district_code": 625,
+    "district_name": "Shopian",
+    "cspp_code": "CSPP-DISTRICT-00625"
+  },
+  {
+    "state_code": 23,
+    "district_code": 433,
+    "district_name": "Sidhi",
+    "cspp_code": "CSPP-DISTRICT-00433"
+  },
+  {
+    "state_code": 23,
+    "district_code": 638,
+    "district_name": "Singrauli",
+    "cspp_code": "CSPP-DISTRICT-00638"
+  },
+  {
+    "state_code": 9,
+    "district_code": 183,
+    "district_name": "Sitapur",
+    "cspp_code": "CSPP-DISTRICT-00183"
+  },
+  {
+    "state_code": 27,
+    "district_code": 496,
+    "district_name": "Solapur",
+    "cspp_code": "CSPP-DISTRICT-00496"
+  },
+  {
+    "state_code": 11,
+    "district_code": 742,
+    "district_name": "Soreng",
+    "cspp_code": "CSPP-DISTRICT-00742"
+  },
+  {
+    "state_code": 7,
+    "district_code": 83,
+    "district_name": "South",
+    "cspp_code": "CSPP-DISTRICT-00083"
+  },
+  {
+    "state_code": 18,
+    "district_code": 707,
+    "district_name": "South Salmara Mancachar",
+    "cspp_code": "CSPP-DISTRICT-00707"
+  },
+  {
+    "state_code": 17,
+    "district_code": 663,
+    "district_name": "South West Garo Hills",
+    "cspp_code": "CSPP-DISTRICT-00663"
+  },
+  {
+    "state_code": 28,
+    "district_code": 519,
+    "district_name": "Srikakulam",
+    "cspp_code": "CSPP-DISTRICT-00519"
+  },
+  {
+    "state_code": 22,
+    "district_code": 642,
+    "district_name": "Sukma",
+    "cspp_code": "CSPP-DISTRICT-00642"
+  },
+  {
+    "state_code": 10,
+    "district_code": 223,
+    "district_name": "Supaul",
+    "cspp_code": "CSPP-DISTRICT-00223"
+  },
+  {
+    "state_code": 18,
+    "district_code": 756,
+    "district_name": "Tamulpur",
+    "cspp_code": "CSPP-DISTRICT-00756"
+  },
+  {
+    "state_code": 5,
+    "district_code": 55,
+    "district_name": "Tehri Garhwal",
+    "cspp_code": "CSPP-DISTRICT-00055"
+  },
+  {
+    "state_code": 27,
+    "district_code": 497,
+    "district_name": "Thane",
+    "cspp_code": "CSPP-DISTRICT-00497"
+  },
+  {
+    "state_code": 32,
+    "district_code": 565,
+    "district_name": "Thiruvananthapuram",
+    "cspp_code": "CSPP-DISTRICT-00565"
+  },
+  {
+    "state_code": 33,
+    "district_code": 591,
+    "district_name": "Tiruchirappalli",
+    "cspp_code": "CSPP-DISTRICT-00591"
+  },
+  {
+    "state_code": 33,
+    "district_code": 634,
+    "district_name": "Tiruppur",
+    "cspp_code": "CSPP-DISTRICT-00634"
+  },
+  {
+    "state_code": 33,
+    "district_code": 593,
+    "district_name": "Tiruvannamalai",
+    "cspp_code": "CSPP-DISTRICT-00593"
+  },
+  {
+    "state_code": 8,
+    "district_code": 117,
+    "district_name": "Udaipur",
+    "cspp_code": "CSPP-DISTRICT-00117"
+  },
+  {
+    "state_code": 18,
+    "district_code": 617,
+    "district_name": "Udalguri",
+    "cspp_code": "CSPP-DISTRICT-00617"
+  },
+  {
+    "state_code": 12,
+    "district_code": 240,
+    "district_name": "Upper Siang",
+    "cspp_code": "CSPP-DISTRICT-00240"
+  },
+  {
+    "state_code": 29,
+    "district_code": 550,
+    "district_name": "Uttara Kannada",
+    "cspp_code": "CSPP-DISTRICT-00550"
+  },
+  {
+    "state_code": 5,
+    "district_code": 57,
+    "district_name": "Uttar Kashi",
+    "cspp_code": "CSPP-DISTRICT-00057"
+  },
+  {
+    "state_code": 36,
+    "district_code": 522,
+    "district_name": "Warangal",
+    "cspp_code": "CSPP-DISTRICT-00522"
+  },
+  {
+    "state_code": 32,
+    "district_code": 567,
+    "district_name": "Wayanad",
+    "cspp_code": "CSPP-DISTRICT-00567"
+  },
+  {
+    "state_code": 17,
+    "district_code": 278,
+    "district_name": "West Garo Hills",
+    "cspp_code": "CSPP-DISTRICT-00278"
+  },
+  {
+    "state_code": 17,
+    "district_code": 275,
+    "district_name": "West Jaintia Hills",
+    "cspp_code": "CSPP-DISTRICT-00275"
+  },
+  {
+    "state_code": 12,
+    "district_code": 243,
+    "district_name": "West Siang",
+    "cspp_code": "CSPP-DISTRICT-00243"
+  },
+  {
+    "state_code": 20,
+    "district_code": 343,
+    "district_name": "West Singhbhum",
+    "cspp_code": "CSPP-DISTRICT-00343"
+  },
+  {
+    "state_code": 36,
+    "district_code": 697,
+    "district_name": "Yadadri Bhuvanagiri",
+    "cspp_code": "CSPP-DISTRICT-00697"
+  },
+  {
+    "state_code": 29,
+    "district_code": 635,
+    "district_name": "Yadgir",
+    "cspp_code": "CSPP-DISTRICT-00635"
+  },
+  {
+    "state_code": 34,
+    "district_code": 601,
+    "district_name": "Yanam",
+    "cspp_code": "CSPP-DISTRICT-00601"
+  },
+  {
+    "state_code": 13,
+    "district_code": 251,
+    "district_name": "Zunheboto",
+    "cspp_code": "CSPP-DISTRICT-00251"
+  }
+]
