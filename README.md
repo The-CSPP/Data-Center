@@ -1,6 +1,35 @@
 # Data-Center
 Data center for CSPP, to provide all meta data for the product
 
+```
+master-data-builder/
+├── locations/
+│   ├── states.json
+│   ├── districts.json
+│   └── cities.json
+├── education/
+│   ├── universities.json
+│   ├── colleges.json
+│   ├── engineering-colleges.json
+│   ├── departments.json
+│   └── cs-courses.json
+├── companies/
+│   ├── companies.json
+│   ├── startups.json
+│   └── mncs.json
+├── technology/
+│   ├── skills.json
+│   ├── programming-languages.json
+│   ├── frameworks.json
+│   ├── databases.json
+│   ├── cloud.json
+│   ├── devops.json
+│   ├── ai.json
+│   ├── cybersecurity.json
+│   └── certifications.json
+└── build.js
+```
+
 # India Location Master Data for CSPP
 
 ## Overview
